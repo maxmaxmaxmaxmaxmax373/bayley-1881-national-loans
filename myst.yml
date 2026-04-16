@@ -1,0 +1,38 @@
+version: 1
+project:
+  title: "The National Loans of the United States, 1776–1880"
+  subtitle: "Replication of Bayley (1881)"
+  authors:
+    - name: Rafael A. Bayley
+      affiliations:
+        - U.S. Treasury Department
+  date: 1881-01-01
+  keywords:
+    - public debt
+    - national loans
+    - U.S. Treasury
+    - 19th century finance
+    - economic history
+  # bibliography:
+  #   - paper/references.bib
+  toc:
+    - file: index.md
+    - title: The National Loans of the United States
+      children:
+        - file: paper/ch00_frontmatter.md
+          title: "Front Matter"
+        - file: paper/ch01_revolutionary.md
+          title: "1 Revolutionary War & Early Federal (1776–1790)"
+        - file: paper/ch02_early_republic.md
+          title: "2 Early Republic (1790–1860)"
+        - file: paper/ch03_antebellum.md
+          title: "3 Antebellum Loans (1837–1860)"
+        - file: paper/ch04_civil_war.md
+          title: "4 Civil War & Post-War Loans (1861–1880)"
+        - file: paper/ch05_recapitulation.md
+          title: "5 Recapitulation Tables"
+
+site:
+  template: book-theme
+  options:
+    base_url: /bayley-1881-national-loans
