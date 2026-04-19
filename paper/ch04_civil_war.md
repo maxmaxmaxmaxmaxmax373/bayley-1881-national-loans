@@ -2,639 +2,460 @@
 title: "Civil War and Post-War Loans (1861–1880)"
 ---
 
-(sec-loan-february-1861)=
-## Loan of February, 1861
-
-The act of February 8, 1861 (12 Statutes, 129), authorized a loan of \$25,000,000, with interest at not exceeding 6 per cent. per annum, reimbursable in not less than ten nor more than twenty years from the date of the act.
-
-Length of loan, 10 or 20 years; redeemable December 31, 1880; amount authorized, \$25,000,000; amount issued, \$18,415,000; sold at an average rate of 89.03 per cent.; interest, 6 per cent., payable semi-annually (January and July); outstanding June 30, 1880, \$15,578,000.
-
-### Issues
-
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1861 | | | | \$8,488,843 34 | \$8,488,843 34 |
-| 1862 | | \$18,600 00 | | | 26,873,984 66 |
-| 1863 | 1,500 00 | | \$122 00 | | 1,622 00 |
-| Total | | | | | 35,364,450 00 |
-
-### Redemptions
-
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1861 | | | | \$597,000 00 | \$597,000 00 |
-| 1862 | | \$12,430,050 00 | \$6,844,550 00 | 792,450 00 | 30,708,550 00 |
-| 1863 | | 33,300 00 | 116,950 00 | 1,971,550 00 | 2,144,350 00 |
-| 1864 | 104,350 00 | 1,614,000 00 | 74,650 00 | 70,400 00 | 1,863,400 00 |
-| 1865 | 10,450 00 | 1,500 00 | 7,200 00 | 24,400 00 | 43,550 00 |
-| 1866 | 1,200 00 | 400 00 | | 400 00 | 2,000 00 |
-| 1867 | 350 00 | 50 00 | | | 400 00 |
-| 1868 | 100 00 | | 50 00 | | 150 00 |
-| 1870 | 350 00 | 50 00 | | 50 00 | 450 00 |
-| 1872 | | | | | 50 00 |
-| 1876 | | | | | 50 00 |
-| 1877 | | 50 00 | | | 100 00 |
-| Unadjusted[^fn280] | | | | | 1,400 00 |
-| Outstanding June 30, 1880 | | | | | 3,000 00 |
-| Total | | | | | 35,364,450 00 |
-
-[^fn280]: For an explanation of this item, see "Notes to Recapitulation", post.
-
-Proposals for \$4,901,000 of this loan were invited April 6, 1861. For a list of bids, see Finance Report, July 4, 1861. The sum of \$414 70 was realized as premium on a small portion of the earlier issues. The cash received and covered into the treasury on account of this loan in 1862 is stated at \$26,918,884 66 (Receipts and Expenditures for 1862, pp. 22–24). Deduct from this \$44,900, received on account of "seven-thirties of 1861", but erroneously credited to this loan (per warrants Nos. 268 and 269, September 30, 1861), and the result is \$26,873,984 66, the true amount received in 1862. The amount redeemed on account of this loan in 1861 is stated at \$586,050 (Receipts and Expenditures for 1861, p. 77). Add to this \$10,950, erroneously charged as "notes of 1857" (warrant No. 4677½, report No. 9641, June 29, 1861), and the result is \$597,000, the true amount redeemed in 1861. The amount redeemed in 1862 on account of this loan is stated at \$30,606,150 (Receipts and Expenditures for 1862, p. 39). Add to this \$100,000, erroneously charged as "notes of 1857" (warrant No. 4789, report No. 9700, September 13, 1861), and \$2,400 erroneously charged as "notes of 1860" (warrants Nos. 4874, 4874n, and 7442, reports Nos. 9822, 9858, and 12002, September 30, 1861, and February 27, 1862), and the result is \$30,708,550, the true amount redeemed in 1862.
-
 (sec-oregon-war-debt)=
 ## Oregon War Debt
 
-The act of March 2, 1861 (12 Statutes, 198), appropriated \$2,800,000 for the payment of expenses incurred by the territories of Washington and Oregon in the suppression of Indian hostilities in the years 1855 and 1856. Section 4 of the act authorized the Secretary of the Treasury, if he should deem it expedient, to issue to the claimants or their legal representatives, bonds of the United States of denominations not less than fifty dollars; redeemable in twenty years; and bearing interest at 6 per cent. per annum, payable upon coupons, annually or semi-annually, in the discretion of the Secretary.
+The settlement of Oregon appears to have commenced in 1839, but was confined to a few adventurous pioneers, who made their way across the plains from Missouri through friendly or hostile Indian tribes, until the year 1850, when emigration was stimulated by the passage of an act giving 320 acres of land to each settler, and, if married, the same amount to his wife. In 1851 the gold-washings of the Rogue river valley were discovered, which caused a sudden increase of population from the mining districts of California. Shortly after these miners arrived, the troubles with the Indians commenced.
 
-Length of loan, 20 years; redeemable July 1, 1881; amount authorized, \$2,800,000; amount issued, \$1,090,850; sold at par; interest, 6 per cent., payable semi-annually (January and July); outstanding June 30, 1880, \$742,450.
+In 1855 hostilities broke out and a general war ensued, which continued for more than a year, after which there was a short but hollow peace. In 1858 another war began, but was of short duration, the increased white population and the military forces of the general government soon overpowering the Indians.
 
-### Issues
+At the breaking out of the war in 1855 the militia were called out by the governors of Oregon and Washington, and heavy expenses incurred. After the war closed a demand was made on the general government for the payment of these troops, and for the expenses of their maintenance in the field. A commission, appointed under an act of Congress, was sent out to investigate the subject and audit the claims. The report of this commission stated the amount due to Oregon at \$4,449,049 33, and to Washington \$1,481,475 45. A supplemental report added about \$80,000, making the total amount to \$6,011,424 78. The committee on military affairs referred this report and the papers to the third auditor of the treasury, under a resolution of the House, with directions to audit the claims, and in so doing to allow the militia the same pay as was given to regular soldiers of the same grade in the United States army, and for the supplies a reasonable approximation to what was already authorized by existing laws.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1862 | | \$483,000 00 | \$297,000 00 | \$198,850 00 | \$1,000,700 00 |
-| 1863 | | | | | 90,150 00 |
-| Total | | | | | 1,090,850 00 |
+On the 7th of February, 1860, the third auditor transmitted his report to the House, showing that the claims, if settled on this footing, would aggregate \$2,714,808 55. Against this reduction the delegates from Oregon and Washington protested. A bill passed the Senate in 1861, appropriating between three and four millions of dollars for the payment of these claims, but it never reached a vote in the House.
 
-### Redemptions
+A bill for the payment of the Oregon and Washington war debt was introduced in February, 1861, passed both houses, with some slight amendments, and was approved March 3, 1861 (12 Statutes, 198). It appropriated, for the pay of volunteers in the war, the sum of \$400,000, the claims to be examined and audited by the third auditor, and the volunteers to be allowed the same pay as United States officers and soldiers serving in Oregon and Washington. For the payment of claims for services, supplies, transportation, &c., incurred in the maintenance of the volunteers, \$2,400,000 was appropriated, the claims to be also settled by the third auditor, and the prices allowed to be, as nearly as possible, the same as had been paid for supplies to the regular forces of the United States; horses and other property lost or destroyed in the military service to be settled for on the principles laid down in previous acts.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1863 | | \$64,250 00 | | | \$69,550 00 |
-| 1864 | | | | | 5,300 00 |
-| 1865 | | | | | 71,000 00 |
-| 1866 | | 123,700 00 | 56,050 00 | 22,800 00 | 202,550 00 |
-| 1867 | | | 56,050 00 | 22,800 00 | 348,400 00 |
-| Outstanding June 30, 1880 | | | | | 742,450 00 |
+The Secretary of the Treasury was authorized, if he deemed it expedient, to issue to the claimants, or their representatives, in payment of their audited claims, bonds of the United States of a denomination not less than \$50, redeemable in twenty years, and bearing interest at the rate of 6 per cent., with coupons attached, payable annually or semi-annually, at the discretion of the Secretary.
 
-The cash received and covered into the treasury on account of this loan in 1863 is stated at \$145,050 (Receipts and Expenditures for 1863, p. 22). Deduct from this \$54,900 erroneously credited to this loan, but for which "five-twenties of 1862" were issued, in exchange for "Oregon War Certificates" Nos. 657 to 670, inclusive (see Register's Certificates Nos. 1001 to 1030, August and September, 1862), and the result is \$90,150, the true amount received in 1863.
+Under this act bonds to the amount of \$1,090,850 were issued.
 
 (sec-loan-july-august-1861)=
-## Loan of July and August, 1861
+## Loan of July and August, 1861 — Old Demand Notes — Seven-Thirties of 1861
 
-The act of July 17, 1861 (12 Statutes, 259), authorized the issue of \$250,000,000 in bonds, with interest at not exceeding 7 per centum per annum, redeemable after twenty years. The act of August 5, 1861 (12 Statutes, 313), authorized the issue of bonds, with interest at 6 per cent. per annum, payable at the pleasure of the government after twenty years from date, in exchange for 7-30 notes issued under the act of July 17, 1861. None of such bonds were to be issued for a sum less than \$500, and the whole amount of them was not to exceed the whole amount of 7-30 notes issued under the above act.
+The extra session of Congress which began July 4, 1861, was held under very different circumstances from those which had accompanied any preceding session. Eleven states had attempted to secede from the Union, and were in actual rebellion. Seventy-five thousand volunteers had been called into the field to suppress the unlawful combination, and Congress met in a military camp.
 
-Length of loan, 20 years; redeemable at the pleasure of the government after June 30, 1881; amount authorized, \$250,000,000; amount issued, \$189,321,350; sold at par; interest, 6 per cent., payable semi-annually (January and July); outstanding June 30, 1880, \$157,257,100.
+The Secretary of the Treasury, Salmon P. Chase, in his report on the finances, dated July 4, 1861, estimated the expenditures for the fiscal year 1862 at \$318,519,581 87, and this sum, vast as it seemed, was, as events proved, more than \$240,000,000 less than the actual expenditures.
 
-### Issues
+The President, in his message to Congress at the beginning of the extra session, had asked authority to borrow \$400,000,000, and this amount, added to the whole revenues of the government, was more than one hundred millions short of the actual expenditures.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1862 | \$15,620,000 00 | | \$25,930,000 00 | \$30,000 00 | |
-| Total | | | | | 60,030,000 00 |
+A bill to meet the expenses of the war, by obtaining a loan of \$250,000,000, was introduced in the House July 9, 1861, and considered in committee of the whole the next day. Debate on the bill was limited to one hour, and this hour was entirely occupied by one member. At the conclusion of his remarks the bill was passed by yeas 150, nays 5.
 
-:::{admonition} Table: Issues (detailed quarterly) — Loan of July and August, 1861
-*[Additional quarterly rows in the original PDF show \$5,777,086 85; \$91,790,678 27; \$11,170,598 24; \$13,997,936 64 for 1862 quarters; to be transcribed from the original PDF.]*
-:::
+The bill passed the Senate without much debate, but with many amendments, which were concurred in by the House, and was approved July 17, 1861 (12 Statutes, 259). It authorized the Secretary of the Treasury to borrow, on the credit of the United States, within twelve months from the passage of the act, a sum not exceeding \$250,000,000, for which he was authorized to issue coupon or registered bonds, or treasury notes, in such proportions of each as he might deem advisable, the bonds to bear interest not exceeding 7 per cent. per annum, payable semi-annually, and redeemable, at the pleasure of the United States, after twenty years. The treasury notes to be of any denomination fixed by the Secretary, not less than \$50, payable three years after date, with interest at the rate of 7 3/10 per cent. per annum, payable semi-annually.
 
-### Redemptions
+The Secretary was also authorized to issue treasury notes of a less denomination than \$50 and not less than \$10, bearing interest at the rate of 3.65 per cent. per annum, payable in one year from date, and exchangeable at any time for treasury notes of \$50 and upward, bearing interest as specified above; also, to issue treasury notes of less than fifty and not less than ten dollars, not bearing interest, but payable on demand; but the whole amount of such notes issued was not to exceed \$50,000,000.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1863 | \$2,000 00 | \$50,000 00 | | \$19,500 00 | \$71,500 00 |
-| 1864 | 6,000 00 | | \$681,500 00 | | 687,500 00 |
-| 1865 | 106,315,100 00 | 2,759,250 00 | 14,950 00 | 29,321,750 00 | 138,411,050 00 |
-| 1866 | 85,150 00 | 62,200 00 | 82,900 00 | 548,900 00 | 779,150 00 |
-| 1867 | 20,950 00 | 9,150 00 | 3,050 00 | 7,950 00 | 41,100 00 |
-| 1868 | 5,850 00 | 2,350 00 | 1,700 00 | 3,900 00 | 13,800 00 |
-| 1869 | 700 00 | 6,650 00 | 2,850 00 | 2,300 00 | 11,500 00 |
-| 1870 | 1,050 00 | 400 00 | 650 00 | 500 00 | 2,600 00 |
-| 1871 | 6,200 00 | 250 00 | 50 00 | 100 00 | 6,600 00 |
-| 1872 | 3,100 00 | | | | 3,100 00 |
-| 1873 | 400 00 | 150 00 | | 100 00 | 650 00 |
-| 1874 | 100 00 | | 50 00 | | 150 00 |
-| 1875 | | | 2,100 00 | | 2,100 00 |
-| 1876 | 50 00 | | | | 50 00 |
-| 1877 | | | 150 00 | 50 00 | 200 00 |
-| 1878 | | 50 00 | | | 50 00 |
-| 1879 | 100 00 | | | 100 00 | 200 00 |
-| Sub-total | | | | | 140,031,300 00 |
-| Unadjusted[^fn281] | | | | | 48,150 00 |
-| Net | | | | | 139,983,150 00 |
-| Outstanding June 30, 1880 | | | | | 16,600 00 |
-| Total | | | | | 139,999,750 00 |
+The Secretary was further authorized to issue, whenever he should deem it expedient, treasury notes of any of the denominations before specified, bearing interest not exceeding 6 per cent., payable at any time not exceeding twelve months after date, but the whole amount of notes so issued was not to exceed \$20,000,000.
 
-[^fn281]: For an explanation of this item, see "Notes to Recapitulation", post.
+Notes of less than \$50, when redeemed, might be reissued or canceled and new notes issued in their stead, but the aggregate amount of bonds and notes issued under previous sections of the act was never to exceed \$250,000,000, and the power to issue or reissue the treasury notes was to cease December 31, 1862.
 
-The cash received and covered into the treasury in 1862 and 1863 on account of this loan is stated at \$183,676,035 34 (Receipts and Expenditures, 1862, p. 22; 1863, p. 22). In the examination of this account, several discrepancies have been discovered, and corrections have been made as follows: To the amount before stated has been added \$30,400 (part of warrants Nos. 268 and 269, 3d quarter, 1861), erroneously covered as "sixty day" "treasury notes of 1861"; also, \$2 04 (part of warrant No. 258, 4th quarter, 1861), principal erroneously covered as interest, part of a certificate in favor of G. W. Dulach; also, \$500,000 (part of warrant No. 219, 1st quarter, 1862), erroneously covered to the "loan of July and August, 1861"; also, \$200,000 (part of warrant No. 231, 3d quarter, 1862), erroneously covered as "five-twenties of 1862"; also, \$50, being an amount found short in the account of N. W. Goodhue, subscription agent (see agency book); also, \$3,865, amount of principal erroneously covered as interest by different warrants (see agency book); also, \$75 (part of warrant No. 611, 3d quarter, 1868), erroneously covered as a "miscellaneous receipt". These additions make an aggregate total of \$184,410,427 38, from which has been made the following deductions: \$44,375,000, being the amount deposited by the "Associate Banks" on account of this loan, but returned to them in money; also, \$3,600 on account of "sixty day" "treasury notes of 1861", erroneously covered to this loan; also, \$56 17 (part of warrant No. 328, 3d quarter, 1861), \$42 85 (part of warrant No. 265, 3d quarter, 1861, certificate of deposit No. 3657), \$200 (part of several warrants), these three items being on account of interest erroneously covered as principal (see agency book); and \$31,778 36 yet remaining unadjusted, awaiting investigation as to the particular source from whence derived. These corrections, amounting in the aggregate to \$44,410,677 38, deducted from the whole amount credited, will leave the total issue \$139,999,750. The \$50,000 represented by misc. cov. warrant No. 264, 4th quarter, 1862, was a deposit on redemption of ten \$5,000 bonds (warrant No. 6929, December 18, 1862), to effect an exchange for one hundred \$500 bonds, thus increasing the scale numbers, but not the actual issue. There was also \$45,000 in notes received by the treasurer, and not issued, but returned to the register as statistical. These differences, amounting to \$95,000, will account for an apparent excess of issues to this extent, as shown by prior reports. The premium realized on this loan amounted to \$650,324 44.
+A bill supplemental to the above act was introduced in the Senate July 22, and passed both houses with but little debate, though some opposition was made to the section which allowed the Secretary of the Treasury to fix the denomination of the treasury notes at any sum below \$50. The limit was finally fixed at \$5, and the bill passed and was approved August 5, 1861 (12 Statutes, 313). It authorized the Secretary to issue a part of the bonds provided for by the act of July 17, 1861, at 6 per cent. per annum, these bonds to be exchangeable for treasury notes bearing interest at 7 3/10 per cent., but no such bond was to be issued for less than \$500, nor was the whole amount of such bonds to exceed the whole amount of treasury notes bearing 7 3/10 per cent. interest issued under the said act.
+
+The Secretary was also authorized to issue treasury notes, not bearing interest, of denominations as low as five dollars. The act of February 12, 1862 (12 Statutes, 338), authorized the issue of \$10,000,000 in demand notes in addition to the \$50,000,000 authorized by the acts of July 17 and August 5, 1861.
+
+Under these acts bonds and treasury notes were issued as follows:
+
+| Instrument | Amount |
+|------------|--------|
+| Loan of July and August, 1861, 6 per cent. bonds | \$189,321,350 |
+| Old demand notes, no interest | 60,030,000 |
+| Seven-Thirties of 1861, interest at 7 3/10 per cent. | 140,094,750 |
+| **Total** | **\$389,446,100** |
+
+When it is considered that only a year before a loan of \$21,000,000 had been asked for, and only about one-third that sum obtained, it is evident that the danger which menaced the Union had aroused the people and induced them to pour out their means freely in aid of the government.
+
+The disasters of the early part of the war were really a gain instead of a loss, as they convinced the North of the necessity of freely contributing money and men to save the imperiled nation.
 
 (sec-five-twenties-1862)=
-## Five-Twenties of 1862
+## Five-Twenties of 1862 — Temporary Loan
 
-The act of February 25, 1862 (12 Statutes, 345), for the purpose of enabling the Secretary of the Treasury to fund the treasury notes and floating debt of the United States, authorized the issue of bonds in the amount of \$500,000,000, redeemable at the pleasure of the United States after five years and payable twenty years from date, bearing interest at the rate of 6 per cent. per annum. The act of March 3, 1864 (13 Statutes, 13), authorized an additional issue of \$11,000,000 of bonds to persons who subscribed for the loan on or before January 21, 1864. The act of January 28, 1865 (13 Statutes, 425), authorized an additional issue of \$4,000,000 of these bonds and their sale in the United States or Europe.
+The so-called "five-twenties of 1862" were issued under the authority granted by the act of February 25, 1862 (12 Statutes, 345), already referred to in the remarks on the legal-tender notes. The following is a copy of the second section of this act:
 
-Length of loan, 5 or 20 years; redeemable May 1, 1867; payable May 1, 1882; amount authorized, \$515,000,000; amount issued, \$514,771,600; sold at an average premium of 3.55/1,000 of 1 per cent.; interest, 6 per cent., payable semi-annually (May and November); outstanding June 30, 1880, \$393,400.
+> And be it further enacted, That to enable the Secretary of the Treasury to fund the treasury notes and floating debt of the United States, he is hereby authorized to issue, on the credit of the United States, coupon bonds, or registered bonds, to an amount not exceeding \$500,000,000, redeemable at the pleasure of the United States after five years, and payable twenty years from date, and bearing interest at the rate of six per cent. per annum, payable semi-annually. And the bonds herein authorized shall be of such denominations, not less than \$50, as may be determined upon by the Secretary of the Treasury. And the Secretary of the Treasury may dispose of such bonds at any time, at the market value thereof, for the coin of the United States, or for any of the treasury notes that have been, or may hereafter be, issued under any former act of Congress, or for United States notes that may be issued under the provisions of this act; and all stocks, bonds, and other securities of the United States held by individuals, corporations, or associations, within the United States, shall be exempt from taxation by or under state authority.
 
-:::{admonition} Table: Issues and Redemptions — Five-Twenties of 1862
-*[To be transcribed from the original PDF — the raw extraction in this range contains only empty-cell templates; the detailed quarterly figures were not recovered by OCR.]*
-:::
+The success of this loan was remarkable. Secretary Chase having used every exertion to provide for its general distribution among the people. In his annual report to Congress, dated December 10, 1863, he said:
 
-(sec-temporary-loan)=
-## Temporary Loan
+> After ascertaining, by inquiry, that they could not be disposed of to capitalists, in amounts sufficient for prompt payment of the army and navy, and for the satisfaction of the just claims of public creditors generally, without serious loss, the Secretary determined to employ a general agent, under adequate bonds, and confide the whole work of distribution, except so far as it could be effected by the treasurer, assistant treasurers, and designated depositaries, to him, and to sub-agents designated by him, and responsible immediately to him. Under this plan, and chiefly through indefatigable efforts of the general agent and his sub-agents, five-twenty bonds to the amount of nearly \$400,000,000, in denominations of \$50, \$100, \$500, and \$1,000, were distributed throughout the whole country not controlled by the rebellion, and among all classes of our countrymen. The history of the world may be searched in vain for a parallel case of popular financial support to a national government.
 
-Length of loan, indefinite; redeemable after 10 days' notice; amount authorized, \$150,000,000; amount issued, \$716,099,247 16; highest amount outstanding June 12, 1866, \$149,500,000; sold at par; interest, 4, 5, and 6 per cent., according to contract, payable on redemption; outstanding June 30, 1880, \$2,960.
+On closing the subscription books at the time appointed, it was found that \$11,000,000 over and above the amount asked for had already been subscribed, and the subscribers having complied with the regulations prescribed by the department, in its public notice inviting subscriptions, the secretary was obliged to ask for additional legislation to enable him to issue the required amount.
 
-### Issues
+The act of March 3, 1864 (13 Statutes, 13), authorized an additional issue of \$11,000,000 to persons who subscribed for this loan on or before the 21st day of January, 1864, the bonds so issued to have the same force and effect as if issued under the former act.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1863 | \$787,800 00 | \$6,057,136 00 | \$12,070,564 00 | \$1,276,956 00 | \$20,192,456 00 |
-| 1864 | | 598,749 50 | 3,057,262 50 | 4,513,709 25 | 8,169,721 25 |
-| 1865 | 4,340,798 15 | 2,426,825 50 | 3,691,647 75 | 4,155,291 75 | 14,614,563 15 |
-| 1866 | 4,950,163 75 | 3,014,279 50 | 5,608,980 50 | 4,290,897 00 | 17,864,320 75 |
-| 1867 | 4,409,042 60 | 6,034,017 50 | 5,318,236 50 | 4,155,234 05 | 19,916,530 65 |
-| 1868 | | 6,697,920 00 | 6,626,362 00 | 5,643,600 00 | 25,024,424 00 |
-| 1869 | 6,204,179 00 | 7,152,896 45 | 9,390,326 00 | 961,736 20 | 23,709,137 65 |
-| 1870 | 4,167,300 00 | 11,875,113 00 | 7,413,987 00 | 7,753,316 00 | 31,209,716 00 |
-| 1871 | 7,208,500 00 | 7,680,500 06 | 8,200,900 00 | 8,014,000 00 | 31,103,900 06 |
-| 1872 | | 9,407,400 00 | 9,882,900 00 | 6,838,400 00 | 31,816,900 00 |
-| 1873 | | 12,554,000 00 | 9,025,600 00 | 8,981,600 00 | 38,674,800 00 |
-| 1874 | | 12,139,300 00 | 10,553,561 60 | 6,585,600 00 | 41,434,916 00 |
-| 1875 | | 9,314,200 00 | 7,803,600 00 | 8,792,700 00 | 36,612,800 00 |
-| 1876 | | 13,251,100 00 | 7,338,000 00 | | 28,375,900 00 |
-| Total | | | | | 368,720,079 51 |
+In March, 1863, it became necessary to transmit a considerable amount of funds to London, for a special purpose, for which an appropriation had been made by Congress, and it was thought advisable to deposit a certain amount of our securities with an eminent London banker, against which bills might be drawn. Five-twenty bonds, to the amount of \$10,000,000, were accordingly placed in the hands of two distinguished citizens, to whose care the negotiation was committed. The negotiation failed, and \$6,000,000 of the \$10,000,000 were returned to the treasury and disposed of. It was thought advisable that the amount of \$4,000,000 should remain, and that exchange should be drawn against it, and the bonds disposed of abroad, if a favorable market should be found. It appears, however, that very nearly this amount of issue is in excess of the \$511,000,000 authorized by existing laws, \$510,756,900 having been disposed of. Exchange having been drawn, it became necessary to provide funds to meet the bills at maturity, which was accomplished by shipments of gold from California.
 
-### Redemptions
+The action taken by the Secretary met with the approval of Congress, and the act of January 28, 1865 (13 Statutes, 425), was passed, authorizing the further issue of bonds of this loan to an amount not exceeding \$4,000,000, and their sale in the United States or Europe at any time, on such terms as the Secretary of the Treasury deemed most advisable.
 
-:::{admonition} Table: Redemptions — Temporary Loan (detailed quarterly breakdown)
-*[The original PDF contains a large quarterly redemption table for fiscal years 1864 through 1880. The raw OCR extraction was severely garbled with overlapping rows and cell contents split vertically; the totals reported in the source include approximately: 1864 \$5,467,751 04; 1865 \$11,415,744 07; 1866 \$10,134,319 69; 1867 \$17,934,828 09; 1868 \$20,267,142 70; 1869 \$26,368,688 23; 1870 \$23,238,713 92; 1871 \$30,395,939 29; 1872 \$31,543,269 83; 1873 \$34,731,985 40; 1874 \$40,352,071 48; 1875 \$40,364,728 80; 1876 \$30,058,458 05; 1877 \$14,043,855 90; 1878 \$3,372,158 06; 1879 \$705,717 41; 1880 \$251,—. Estimated as lost or destroyed, act of June 21, 1879: \$8,375,934 00. Total: \$361,505,125 14. Outstanding June 30, 1880: \$7,214,954 37. Grand total: \$368,720,079 51. To be transcribed from the original PDF.]*
-:::
+Under these acts, bonds were issued to the amount of \$514,771,600, bearing 6 per cent. interest, redeemable at the pleasure of the United States after five years, and payable twenty years from date.
+
+### Temporary Loan (Section 4)
+
+Section 4 of the act of February 25, 1862 (12 Statutes, 345), provides:
+
+> That the Secretary of the Treasury may receive from any person or persons, or any corporation, United States notes on deposit for not less than thirty days, in sums of not less than \$100, with any of the assistant treasurers or designated depositaries of the United States authorized by the Secretary of the Treasury to receive them, who shall issue therefor certificates of deposit, made in such form as the Secretary of the Treasury shall prescribe, and said certificates of deposit shall bear interest at the rate of 5 per cent. per annum; and any amount of United States notes so deposited may be withdrawn from deposit at any time after ten days' notice on the return of said certificates: Provided, That the interest on all such deposits shall cease and determine at the pleasure of the Secretary of the Treasury: And provided further, That the aggregate of such deposit shall at no time exceed the amount of \$25,000,000.
+
+Section 4 of the act of March 17, 1862 (12 Statutes, 370), authorized the increase of temporary loan deposits to an amount not exceeding \$50,000,000, and this amount was still further increased to \$100,000,000 by section 3 of the act of June 11, 1862 (12 Statutes, 532). Section 4 of the act of June 30, 1864 (13 Statutes, 219), authorized a still further increase to an amount not exceeding \$150,000,000. Under this authority temporary loan deposits were received, amounting in the aggregate to \$716,099,247 16.
+
+(sec-legal-tender-notes)=
+## Legal-Tender Notes
+
+The Secretary of the Treasury, at the beginning of the extra session of Congress, July 4, 1861, had estimated the expenses during the fiscal year 1862 at \$318,519,581 87. In his report on the finances, December 9, 1861, owing to the unexpected proportions which the war had assumed, and the extraordinary increase in the army and navy which had become necessary, he was obliged to revise his figures. He estimated, at that date, the expenditures during the year at \$543,406,422 06, of which sum \$213,904,427 68 remained to be provided, for which recourse must be had to loans. The result proved that even the increased figures were more than \$20,000,000 too low.
+
+A bill to authorize the issue of \$100,000,000 in treasury notes, and to fund the outstanding debt and the floating debt, by the issue of \$500,000,000 in bonds, was introduced in the House January 22, 1862. The first section of the bill, as introduced — though subsequently amended — provided that there should be printed on the back of the notes the following words:
+
+> The within note is a legal tender in payment of all debts, public and private, and is exchangeable for bonds of the United States bearing 6 per cent. interest.
+
+This legal-tender clause developed opposition in both houses of Congress, even among supporters of the administration. It was well said in debate that this was the first time it had been proposed in the Congress of the United States to make anything but gold and silver a legal tender. The question has been raised and disputed as to whether what was called the "continental currency", issued during the war of the Revolution by the old government, was or was not legal tender. The facts appear to be that while the Continental Congress did not by any ordinance attempt to give it that character, they asked the states to do so, and all seem to have complied except Rhode Island. The Continental Congress only enacted that the man who refused to take the money should be deemed an enemy of his country. George Washington complained, in one of his letters, that he had been obliged to receive the currency at par, in payment of a debt, when it had so depreciated that its value was almost nominal.
+
+The opponents of the clause under which the first issue of the present legal-tender currency was made, said that such an issue would be, in effect, to aid and assist men who owed debts to pay them with a depreciated currency, at par, at the cost and expense of the creditor, and that it was therefore clearly a proposal to interfere with existing contracts; that the government was about to go before the community and ask for credit on the plighted public faith, and it was asked on what the public faith rested? Evidently on the belief that the government appreciated the inviolability of contracts. And yet, it was said, the very bill in which it was proposed to appeal for credit for a vast sum proposed to destroy this inviolability.
+
+Those who favored the bill do not seem to have found any very strenuous arguments in favor of the legal-tender clause, *per se*, but made the plea that it was a necessity, a war measure, justified as any other step might be justified which had become necessary, in order that the nation might live.
+
+The words of Secretary Chase on this subject show how the matter was regarded by the administration:
+
+> The provision making United States notes a legal tender has doubtless been well considered by the committee, and their conclusion needs no support from any observation of mine. I think it my duty, however, to say, that in respect to this provision my reflections have conducted me to the same conclusions they have reached. It is not unknown to them that I have felt, nor do I wish to conceal that I now feel, a great aversion to making anything but coin a legal tender in payment of debts. It has been my anxious wish to avoid the necessity of such legislation. It is, however, at present impossible, in consequence of the large expenditures entailed by the war, and the suspension of the banks, to procure sufficient coin for disbursements; and it has, therefore, become indispensably necessary that we should resort to the issue of United States notes. The making them a legal tender might, however, still be avoided if the willingness manifested by the people generally, by railroad companies, and by many of the banking institutions, to receive and pay them as money in all transactions were absolutely or practically universal, but, unfortunately, there are some persons and some institutions which refuse to receive and pay them, and whose action tends not merely to the unnecessary depreciation of the notes, but to establish discriminations in business against those who, in this matter, give a cordial support to the government, and in favor of those who do not. Such discriminations should, if possible, be prevented; and the provision making the notes a legal tender, in a great measure at least, prevents it, by putting all citizens, in this respect, on the same level, both of rights and duties.
+
+It would appear that even the financiers of the country were very much divided in opinion respecting the legal-tender clause, and Mr. Fessenden, in his speech in the Senate on the bill, called attention to the fact:
+
+> Nobody knows much upon the question of finance, not even those who are most familiar with it; for, sir, I declare to-day that, in the whole number of learned financial men that I have consulted, I never have found any two of them who agree, and therefore it is hardly worth while for us to plead any very remarkable degree of ignorance when nobody is competent to instruct us; and yet such is the fact. I can state to you, Mr. president, that on one day I was advised very strongly by a leading financial man, at all events to oppose this legal-tender clause; he exclaimed against it with all the bitterness in the world. On the very same day I received a note from a friend of his, telling me that we could not get along without it. I showed it to him, and he expressed his utter surprise. He went home, and next day telegraphed to me that he had changed his mind and now thought it was absolutely necessary; and his friend who wrote to me wrote again that he had changed his, and they were two of the most eminent financial men in the country.
+
+When two of the leading financial luminaries could thus find themselves on both sides of so important a question within a few hours, it may be doubted whether enough fixed principles in finance have been discovered to entitle it to be called a science.
+
+It is very evident that the issue of so large an amount of notes, without the legal-tender clause, must have caused them to depreciate much more than they did, and that with specie payments suspended by all the banks, and the coin of the country locked up, or in the hands of speculators, the distress must have been much increased by the fact that creditors could have demanded payment, not in the common currency, but in gold and silver, which could only have been obtained at exorbitant prices.
+
+Several amendments to the original bill were adopted, including a modification of the legal-tender clause, and the amount of notes of that character to be issued was increased to \$150,000,000.
+
+The bill was approved February 25, 1862 (12 Statutes, 345). It authorized the Secretary of the Treasury to issue, on the credit of the United States, treasury notes to the amount of \$150,000,000, bearing no interest and payable to bearer, of such denominations as he might deem expedient, not less than five dollars each. Fifty millions of these notes to be in lieu of the "demand notes" issued under the act of July 17, 1861, which latter were to be taken up as rapidly as practicable, and the notes authorized by this act substituted therefor.
+
+The amount of the two kinds of notes together was at no time to exceed \$150,000,000. These notes to be "receivable in payment of all taxes, internal duties, excises, debts, and demands of every kind due to the United States, except duties on imports, and of all claims and demands against the United States, of every kind whatsoever, except for interest upon bonds and notes, which shall be paid in coin, and shall also be lawful money and a legal tender in payment of all debts, public and private, within the United States, except duties on imports and interest as aforesaid".
+
+They were to be exchangeable in sums of \$50, or any multiple thereof, for bonds of the United States, bearing interest at the rate of 6 per cent., payable semi-annually, the bonds to be redeemable at the pleasure of the United States after five years, and payable twenty years after date. The notes were made receivable the same as coin, at their par value, for any loans that might thereafter be sold or negotiated by the Secretary of the Treasury.
+
+The act of July 11, 1862 (12 Statutes, 532), authorized an additional issue of \$150,000,000 in legal-tender notes. The act of March 3, 1863 (12 Statutes, 710), authorized another issue of \$150,000,000 in legal-tender notes. This act also limited the time at which treasury notes might be exchanged for United States bonds to July 1, 1863.
+
+Under these acts legal-tender notes have been issued amounting in the aggregate to \$1,640,559,947. The difference between the amount authorized and the amount issued is accounted for by reissues from time to time, as authorized by law.
+
+(sec-certificates-indebtedness)=
+## Certificates of Indebtedness
+
+A bill to allow the issue of certificates for the amount due on audited and settled accounts was introduced in the Senate February 27, passed both houses without debate, and was approved March 1, 1862 (12 Statutes, 352).
+
+It authorized the Secretary of the Treasury to issue, to any public creditor who might desire to receive the same, certificates for the whole amount due, or parts thereof, not less than \$1,000, in satisfaction of audited and settled accounts. These certificates were to bear 6 per cent. interest per annum, and were payable one year from date or earlier at the option of the government. The act of March 17, 1862 (12 Statutes, 370), authorized the issue of these certificates to such public creditors as might desire to receive them, in payment of disbursing officers' checks drawn on the treasurer of the United States. The act of March 3, 1863 (12 Statutes, 710), made the interest payable in lawful money. Under these acts certificates of indebtedness amounting to \$561,753,241 65 have been issued.
+
+(sec-fractional-currency)=
+## Fractional Currency
+
+On the 17th of July, 1862, Mr. Hooper, of Massachusetts, introduced in the House of Representatives "A bill to authorize payments in stamps, and to prohibit the circulation of notes of less denominations than one dollar", accompanying his remarks with the following letter from the Secretary of the Treasury:
+
+> Treasury Department, July 14, 1862.
+>
+> Sir: The depreciation of the currency, resulting, in great measure, from the unrestricted issues of non-specie-paying banks and unauthorized associations and persons, causes the rapid disappearance from circulation of small coins. To supply the want of these coins, tokens and checks for sums less than one dollar are being issued by hotels, business houses, and dealers generally; and the most serious inconveniences and evils are apprehended unless these issues can be checked and the small coins of the government kept in circulation, or a substitute provided.
+>
+> These objects may be accomplished by the extension of the principle of the act of February 21, 1853, to the United States notes. By that act the weight of the small coins was reduced, so as to make their actual less than their nominal value, in comparison with gold. If, during the existing troubles, the weight should be still further reduced, so as to establish a similar relation between these coins and the United States notes, it is highly probable, if not quite certain, that the coins will be retained in circulation. Of course, any enactment with this object should be accompanied by a prohibition of the circulation of tokens and certificates for fractional parts of a dollar, and should be limited in duration to the existing insurrection.
+>
+> Should Congress see fit to adopt this expedient, a return to the existing basis, on the termination of the insurrection, will be practicable and easy.
+>
+> The same object may be accomplished, and perhaps with less incidental evil consequence, by a similar prohibition, accompanied by a provision for the receipt of postage and other stamps in payment of the fractional parts of a dollar.
+>
+> For the convenience of the committee, I inclose two bills prepared upon the principles just indicated.
+>
+> With great respect,
+>
+> S. P. Chase, *Secretary of the Treasury.*
+>
+> Hon. Thaddeus Stevens, *Chairman of the Committee of Ways and Means, United States House of Representatives.*
+
+The bill passed both houses without debate, and was signed by the President the same day. The act as approved July 17, 1862 (12 Statutes, 592), directed the Secretary of the Treasury to furnish to the assistant treasurers, and such designated depositaries as might be selected, the postage and other stamps of the United States, to be exchanged for United States notes, with stamps being receivable in payment of all dues to the United States less than five dollars, and receivable in exchange for United States notes in sums not less than five dollars. The act further prohibited any private corporation, banking association, firm, or individual from issuing any note, check, memorandum, token, or other obligation for a less sum than one dollar, intended to circulate as money or to be received or used in lieu of lawful money of the United States.
+
+The fourth section of the act of March 3, 1863 (12 Statutes, 711), authorized the Secretary to issue fractional notes in lieu of postage and revenue stamps for fractional currency, in such form as he might deem expedient, and provided that all such notes issued should be exchangeable by the assistant treasurers and designated depositaries for United States notes in sums not less than three dollars, and should be receivable for postage and revenue stamps, and also in payment of any dues to the United States less than five dollars, except duties on imports, and should be redeemed on presentation at the treasury. The whole amount of fractional currency issued, including postage and revenue stamps issued as currency, was not to exceed fifty millions of dollars.
+
+The fifth section of the act of June 30, 1864 (13 Statutes, 220), covers substantially the same ground as the preceding act. Under the authority granted by these several acts fractional currency of various denominations has been issued, amounting in the aggregate to \$368,720,079 51, including reissues.
 
 (sec-loan-1863)=
-## Loan of 1863
+## Loan of 1863 — One and Two Year Notes of 1863 — Compound-Interest Notes — Coin Certificates
 
-The act of March 3, 1863 (12 Statutes, 709), authorized the issue of bonds in the amount of \$900,000,000, bearing interest at a rate not exceeding 6 per cent. per annum, and redeemable in not less than ten nor more than forty years, principal and interest payable in coin. The act of June 30, 1864, section 3 (13 Statutes, 219), repealed so much of the preceding act as limited the authority thereunder to the current fiscal year, and also repealed the authority altogether except as to \$75,000,000 of bonds for which subscriptions had already been invited.
+The expenditures for the fiscal year 1864 were estimated by the Secretary of the Treasury, in his report on the finances, dated December 4, 1862, at \$845,413,183 56. Deducting estimated receipts, \$223,025,000, there remained to be provided \$622,388,183 56, and for the service of the remainder of the fiscal year 1863 \$276,912,517 66, making an aggregate deficiency of \$899,300,701 22.
 
-Length of loan, 17 years; redeemable July 1, 1881; amount issued, \$75,000,000; amount authorized, \$75,000,000; sold at an average premium of 4 4/10 per cent.; interest, 6 per cent., payable semi-annually (January and July); outstanding June 30, 1880, \$62,202,850.
+To provide this money the Secretary advised that recourse be had to loans. The Secretary advised that, if Congress thought proper to continue the provision which required that 5.20 bonds should be sold only at their market value, 7 3/10 three-year bonds might be issued, convertible into five-twenty sixes at or before maturity, also smaller notes bearing interest at 3.65 per cent. He argued that the advance in the price of gold was not owing to over-issues of treasury notes, but that gold, being practically demonetized by the suspension of the banks, had become a mere article of merchandise, subject to fluctuations, often sudden and violent, such as might occur in other commodities. He claimed, further, that if paper money was in excess of the wants of the country, such excess was not due to the issue of treasury notes, but to the issue of notes by hundreds of banks, under no legal restrictions, which had flooded the country with paper money, often of doubtful value and sometimes worthless. The idea advanced by the Secretary, that banking associations should be formed for the improvement of the public credit and to supply a safe and uniform currency to the people, was taken up by Congress, and resulted in the present national banking system.
 
-:::{admonition} Table: Issues and Redemptions — Loan of 1863
-*[To be transcribed from the original PDF — the raw extraction contains only empty-cell templates for this loan.]*
-:::
+A bill to provide ways and means for the support of the government was introduced in the House of Representatives by Mr. Stevens, of Pennsylvania, December 8, and considered in committee of the whole December 23, 1862. Mr. Stevens said that the bill had "produced a howl among the money-changers as hideous as that sent forth by their Jewish cousins when they were kicked out of the temple". It is not strange that such a measure should have produced consternation in Wall Street, for it proposed the issue of an additional amount of \$200,000,000 in legal-tender notes and \$1,000,000,000 in 6 per cent. bonds, and to tax the state banks out of existence.
 
-(sec-one-year-notes-1863)=
-## One-Year Notes of 1863
+A substitute for this bill was reported from the committee of ways and means in the House January 8, 1863. This bill proposed the issue of \$900,000,000 in 6 per cent. bonds, \$300,000,000 in treasury notes, bearing interest at the rate of 5.47½ per cent., and \$50,000,000 in fractional currency, and contained a provision for a tax of 2 per cent. on the issue of state banks above a certain percentage of their capital.
 
-The act of March 3, 1863, section 2 (12 Statutes, 710), authorized the issue of \$400,000,000 treasury notes, with interest at not exceeding 6 per cent. per annum; redeemable in not more than three years; principal and interest payable in lawful money, to be a legal tender for their face value, excluding interest.
+Mr. Spaulding, of New York, who advocated its passage, estimated the amount in excess of the receipts required to carry on the government to July 1, 1863, at \$551,221,131 59, and the total amount required up to July 1, 1864, at \$1,117,139,409 57, a sum which exceeded the estimates of the Secretary of the Treasury by more than \$200,000,000.
 
-Length of loan, 1 year; redeemable 1 year after date; amount authorized, \$400,000,000; amount issued, \$44,520,000; sold at par; interest, 5 per cent., payable on redemption; outstanding June 30, 1880, \$40,535.
+The public debt at that time, as shown by the treasury books, was stated at \$783,804,252 64, while it was estimated that if the war should continue up to July 1, 1864, the debt would amount to \$2,000,000,000. The whole bank circulation in the loyal states was estimated at \$106,000,000, and the specie in possession of the banks at \$86,931,000. It was said that it would be simply impossible to continue so mighty a war by the use of gold and silver alone, there not being specie enough in the country, including all that was hoarded by the people, to carry on the operations of the government for four months. England and France both, in times of war, extended their paper currency to the utmost limits. Even the bank of England, strong as it was, paid no specie from 1797 to 1821, and its notes were sold as late as 1814 at a discount of 25 per cent.
 
-:::{admonition} Table: Issues and Redemptions — One-Year Notes of 1863
-*[To be transcribed from the original PDF — the raw extraction contains only empty-cell templates for this loan.]*
-:::
+After a lengthy debate in both House and Senate, during which Mr. Stevens' bill was amended in several particulars and referred three times to conference committees for the adjustment of differences, it was finally passed and became a law March 3, 1863 (12 Statutes, 709).
 
-(sec-two-year-notes-1863)=
-## Two-Year Notes of 1863
+Section 1 of this act authorized the Secretary of the Treasury to borrow from time to time, on the credit of the United States, a sum not exceeding \$300,000,000 for the current fiscal year and \$600,000,000 for the next fiscal year, and to issue therefor coupon or registered bonds, payable at the pleasure of the government after such periods as might be fixed by the Secretary, not less than 10 nor more than 40 years from date, in coin, and of such denominations, not less than \$50, as he might deem expedient, bearing interest at a rate not exceeding 6 per cent. per annum. Provided, there was to be outstanding of bonds, treasury notes, and United States notes, at any time, issued under the provisions of this act, no greater amount altogether than the sum of \$900,000,000.
 
-The act of March 3, 1863, section 2 (12 Statutes, 710), authorized the issue of \$400,000,000 in treasury notes, redeemable in not more than three years, with interest at not exceeding 6 per cent. per annum, principal and interest payable in lawful money, to be a legal tender for their face value, excluding interest.
+Under this act bonds to the amount of \$75,000,000 were issued, bearing interest at 6 per cent., payable semi-annually. A subsequent act, approved June 30, 1864 (13 Statutes, 219, section 3), limited the issues to this sum, subscriptions for this amount having been already invited.
 
-### Issues
+### One and Two Year Notes of 1863
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1864 | \$13,000,000 00 | \$36,500,000 00 | \$92,495,893 01 | \$24,484,106 99 | |
-| Total | | | | | 166,480,000 00 |
+The second section of the act of March 3, 1863 (12 Statutes, 710), authorized the Secretary of the Treasury to issue, on the credit of the United States, \$400,000,000 in treasury notes, payable at the pleasure of the United States, or at such time or times, not exceeding three years from date, as might be found most beneficial to the public interest, and bearing interest at a rate not exceeding six per centum per annum. The treasury notes thus issued shall be of such denomination as the Secretary may direct, not less than ten dollars. These notes might be made a legal tender to the same extent as United States notes, for their face value, excluding interest; or they might be made exchangeable for United States notes equal in amount to the treasury notes offered for exchange.
 
-### Redemptions
+Under this authority treasury notes were issued amounting to \$44,520,000, redeemable one year from date, and \$166,480,000 redeemable two years from date. These notes, bearing interest at 5 per cent. per annum, were a legal tender for their face value, and are generally known as the "one and two year notes of 1863", according to the time for which they were to bear interest.
 
-:::{admonition} Table: Redemptions — Two-Year Notes of 1863
-*[To be transcribed from the original PDF — the raw extraction contains only empty-cell templates for this loan.]*
-:::
+### Compound-Interest Notes
 
-(sec-coin-certificates)=
-## Coin Certificates
+The authority for the issue of "compound-interest notes" was based upon the second section of the act of March 3, 1863 (12 Statutes, 710), which has been already quoted as authority for the issue of "one and two year notes of 1863". The amount issued under this act was \$17,993,760.
 
-The act of March 3, 1863, section 5 (12 Statutes, 711), authorized the Secretary of the Treasury to receive deposits of gold coin and bullion, and to issue certificates therefor in denominations not less than twenty dollars, payable to the order of the depositor or bearer, and receivable at their face value for duties on imports. These certificates were intended to facilitate the custom-house receipts of the government and were issued in the course of the war and for many years thereafter under a continuing authority.
+The act of June 30, 1864 (13 Statutes, 218), authorized the issue of \$200,000,000 in treasury notes of any denomination not less than \$10, payable at any time not exceeding three years from date, and bearing interest not exceeding 7 3/10 per cent., payable in lawful money at maturity, or, at the discretion of the Secretary of the Treasury, semi-annually, these notes to be disposed of on the best terms that could be obtained for lawful money; and such of them as should be made payable, principal and interest, at maturity, to be a legal tender to the same extent as United States notes for their face value, excluding interest. The amount issued under this act was \$248,601,680. Of this sum \$177,045,770 was in redemption of 5 per cent. notes.
 
-### Issues
+### Coin Certificates
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1866 | | \$200 00 | \$54,946,580 00 | \$43,546,880 00 | \$98,493,660 00 |
-| 1867 | \$27,087,320 00 | 38,707,420 00 | 18,046,860 00 | 25,300,520 00 | 109,142,120 00 |
-| 1868 | 12,908,340 00 | 20,364,700 00 | 22,560,140 00 | 22,106,720 00 | 77,939,900 00 |
-| 1869 | 19,982,280 00 | 20,463,380 00 | 14,391,420 00 | 25,826,080 00 | 80,663,160 00 |
-| 1870 | 19,495,020 00 | 28,743,100 00 | 17,368,440 00 | 11,124,500 00 | 76,731,060 00 |
-| 1871 | 11,532,000 00 | 21,155,000 00 | 12,529,500 00 | 11,360,500 00 | 56,577,000 00 |
-| 1872 | 10,622,500 00 | 29,927,000 00 | 6,771,000 00 | 15,909,000 00 | 63,229,500 00 |
-| 1873 | 6,995,000 00 | 11,193,000 00 | 11,402,500 00 | 25,980,000 00 | 55,570,500 00 |
-| 1874 | 42,239,980 46 | 17,360,100 00 | 13,584,700 00 | 7,933,000 00 | 81,117,780 46 |
-| 1875 | 17,377,400 00 | 11,002,200 00 | 23,332,600 00 | 18,537,900 00 | 70,250,100 00 |
-| 1876 | 38,227,900 00 | 26,018,300 00 | 13,069,100 00 | 13,303,800 00 | 90,619,100 00 |
-| 1877 | 10,348,100 00 | 26,427,000 00 | 12,619,700 00 | 8,746,400 00 | 58,141,200 00 |
-| 1878 | 8,630,500 00 | 5,701,800 00 | 30,087,500 00 | 5,916,600 00 | 50,342,400 00 |
-| 1879 | 1,986,600 00 | 10,330,800 00 | | | 12,317,400 00 |
-| Total | | | | | 981,134,880 46 |
+In addition to the authority granted by the act of March 3, 1863, still further means were provided by section 5 of the same act, which authorizes the issue of "coin certificates":
 
-### Redemptions
+> Sec. 5. That the Secretary of the Treasury is hereby authorized to receive deposits of gold coin and bullion with the treasurer or any assistant treasurer of the United States, in sums not less than twenty dollars, and to issue certificates therefor in denominations of not less than twenty dollars each, corresponding with the denominations of the United States notes. The coin and bullion deposited for or representing the certificates of deposit shall be retained in the treasury for the payment of the same on demand. And certificates representing coin in the treasury may be issued in payment of interest on the public debt, which certificates, together with those issued for coin and bullion deposited, shall not at any time exceed twenty per centum beyond the amount of coin and bullion in the treasury; and the certificates for coin or bullion in the treasury shall be received at par in payment for duties on imports.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1866 | | | \$36,256,600 00 | \$51,454,920 00 | \$87,711,520 00 |
-| 1867 | | \$33,610,860 00 | 21,610,460 00 | 19,117,540 00 | 101,156,480 00 |
-| 1868 | 16,814,100 00 | 15,129,140 00 | 24,905,660 00 | 22,180,140 00 | 79,029,040 00 |
-| 1869 | | 13,663,760 00 | 19,707,580 00 | 14,459,760 00 | 65,255,620 00 |
-| 1870 | | | 20,469,820 00 | | 75,270,120 00 |
-| 1871 | 32,507,820 00 | 8,577,300 00 | 13,417,040 00 | 16,735,660 00 | 71,237,820 00 |
-| 1872 | | 10,762,700 00 | 13,537,300 00 | 13,106,100 00 | 51,029,500 00 |
-| 1873 | 13,288,540 00 | 13,722,760 00 | 10,524,500 00 | 10,661,000 00 | 48,196,800 00 |
-| 1874 | | 13,752,200 00 | 14,083,000 00 | 22,152,900 00 | 97,752,680 46 |
-| 1875 | 13,786,900 00 | 13,877,200 00 | 22,681,300 00 | 20,933,500 00 | 71,278,900 00 |
-| 1876 | | 6,465,200 00 | 11,929,800 00 | 16,960,000 00 | 83,734,000 00 |
-| 1877 | | 8,924,900 00 | 11,620,300 00 | 15,453,200 00 | 45,250,000 00 |
-| 1878 | | 10,274,400 00 | 5,629,000 00 | 19,433,000 00 | 47,548,000 00 |
-| 1879 | 13,527,000 00 | 21,576,700 00 | 5,276,000 00 | 891,000 00 | 41,270,700 00 |
-| 1880 | | 2,573,800 00 | 3,481,600 00 | 850,900 00 | 7,409,100 00 |
-| Sub-total | | | | | 973,130,280 46 |
-| Outstanding June 30, 1880 | | | | | 8,004,600 00 |
-| Total | | | | | 981,134,880 46 |
-
-(sec-compound-interest-notes)=
-## Compound-Interest Notes
-
-The act of March 3, 1863, section 2 (12 Statutes, 710), authorized the issue of \$400,000,000 in treasury notes, with interest at not exceeding 6 per cent. per annum, in lawful money, payable not more than three years from date, and to be a legal tender for their face value. The act of June 30, 1864 (13 Statutes, 218), authorized the issue of \$200,000,000 treasury notes, of any denomination not less than \$10, payable not more than three years from date, or redeemable at any time after three years, with interest at not exceeding 7 3/10 per cent., payable in lawful money at maturity, and made them a legal tender to the same extent as United States notes for their face value, excluding interest.
-
-Length of loan, 3 years; redeemable 3 years from date; amount authorized, \$400,000,000; amount issued, \$266,595,440; sold at par; interest, 6 per cent. compound, payable on redemption; outstanding June 30, 1880, \$242,590.
-
-### Issues
-
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1864 | | | | \$17,250,000 00 | \$17,250,000 00 |
-| 1865 | \$88,073,440 00 | \$20,460,000 00 | \$5,780,700 00 | 65,900,000 00 | 180,214,140 00 |
-| 1866 | 26,400,000 00 | 13,000,000 00 | | | 39,400,000 00 |
-| 1867 | 29,731,300 00 | | | | 29,731,300 00 |
-| Total | | | | | 266,595,440 00 |
-
-### Redemptions
-
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1864 | | | | \$2,250,000 00 | \$2,250,000 00 |
-| 1865 | \$743,760 00 | \$610,410 00 | \$26,990 00 | 76,900 00 | 1,458,060 00 |
-| 1866 | 2,149,629 00 | 49,148,740 00 | 9,629,790 00 | 13,000,000 00 | 73,928,159 00 |
-| 1867 | 33,447,081 00 | 10,611,300 00 | 5,877,210 00 | 16,634,920 00 | 66,570,511 00 |
-| 1868 | 36,071,800 00 | 30,125,090 00 | 4,794,030 00 | 23,241,750 00 | 94,232,670 00 |
-| 1869 | 16,598,890 00 | 7,755,710 00 | 657,600 00 | 349,280 00 | 25,361,480 00 |
-| 1870 | 250,640 00 | 186,950 00 | 142,060 00 | 121,500 00 | 701,150 00 |
-| 1871 | 98,410 00 | 87,050 00 | 74,000 00 | 1,065,450 00 | 1,324,910 00 |
-| 1872 | 47,410 00 | 48,710 00 | 49,470 00 | 29,390 00 | 174,980 00 |
-| 1873 | 38,210 00 | 22,390 00 | 25,130 00 | 28,390 00 | 114,120 00 |
-| 1874 | 15,210 00 | 17,300 00 | 17,910 00 | 13,770 00 | 64,190 00 |
-| 1875 | 12,800 00 | 12,160 00 | 10,410 00 | 12,450 00 | 47,820 00 |
-| 1876 | 10,990 00 | 9,290 00 | 10,410 00 | 7,940 00 | 38,630 00 |
-| 1877 | 9,160 00 | 7,780 00 | 6,140 00 | 9,050 00 | 32,130 00 |
-| 1878 | 5,340 00 | 5,800 00 | 6,500 00 | 4,310 00 | 21,950 00 |
-| 1879 | 3,750 00 | 3,990 00 | 3,940 00 | 3,910 00 | 15,590 00 |
-| 1880 | 5,620 00 | 3,950 00 | 2,850 00 | 4,080 00 | 16,500 00 |
-| Sub-total | | | | | 266,352,850 00 |
-| Outstanding June 30, 1880 | | | | | 242,590 00 |
-| Total | | | | | 266,595,440 00 |
+Under this authority coin certificates to the amount of \$981,134,880 46 have been issued, including reissues.
 
 (sec-ten-forties-1864)=
-## Ten-Forties of 1864
+## Ten-Forties of 1864 — Five-Twenties of March, 1864
 
-The act of March 3, 1864 (13 Statutes, 13), authorized the issue of \$200,000,000 in bonds, bearing interest at not exceeding 6 per cent. per annum, payable on bonds not over one hundred dollars annually, and on all other bonds semi-annually, in coin; redeemable after any period not less than five and payable not more than forty years from date, in coin.
+On the 25th of February, 1864, Mr. Stevens, of Pennsylvania, from the committee of ways and means, reported to the House of Representatives a bill supplemental to an act entitled "An act to provide ways and means for the support of the government", approved March 3, 1863 (12 Statutes, 709), which was read a first and second time, and recommitted. On the 29th it was again reported to the House, and, after a brief explanation of its provisions by Mr. Stevens, it passed the House without further debate. The bill came up in the Senate on the 3d of March. Considerable debate ensued on the second section of the bill, which provided for an additional issue of \$11,000,000 to the \$500,000,000 already authorized by the act of March 3, 1863. The exigencies of the government required prompt action on the bill, and after a few slight amendments in the Senate it passed that body and was sent back to the House, where the amendments were adopted and the bill passed. It was approved by the President and became a law March 3, 1864 (13 Statutes, 13).
 
-Length of loan, 10 or 40 years; redeemable after 10 and payable 40 years from date; amount authorized, \$200,000,000; amount issued, \$196,118,300; sold at rates varying from par to 7 per cent. premium; interest, 5 per cent., payable semi-annually (March and September); outstanding June 30, 1880, \$2,655,400.
+Section 1 authorized the Secretary of the Treasury to borrow, from time to time, on the credit of the United States, not exceeding two hundred millions of dollars during the current fiscal year, and to prepare and issue therefor coupon or registered bonds of the United States, bearing date March 1, 1864, or any subsequent period, redeemable at the pleasure of the government after any period not less than five years, and payable at any period not more than forty years from date, in coin, and of such denominations as might be found expedient, not less than fifty dollars, bearing interest not exceeding six per centum a year.
 
-### Issues
-
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1866 | | | \$3,700,500 00 | \$182,000 00 | \$3,882,500 00 |
-| Total | | | | | 3,882,500 00 |
-
-:::{admonition} Table: Issues — Ten-Forties of 1864 (complete)
-*[The detailed issuance schedule for earlier fiscal years (1864 and 1865) was not recovered by OCR and is to be transcribed from the original PDF.]*
-:::
-
-### Redemptions
-
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1871 | \$753,400 00 | \$15,500 00 | \$24,000 00 | \$470,000 00 | \$1,262,900 00 |
-| 1872 | 122,000 00 | 5,100 00 | 16,000 00 | 127,000 00 | 270,100 00 |
-| 1873 | 51,500 00 | | | 6,300 00 | 57,800 00 |
-| 1874 | 1,345,100 00 | | | | 1,345,100 00 |
-| 1875 | | | | 14,200 00 | 940,600 00 |
-| 1876 | 6,000 00 | | | | |
-
-:::{admonition} Table: Redemptions — Ten-Forties of 1864 (complete)
-*[The complete redemption schedule for the full 1871–1880 range was only partially recovered by OCR; to be transcribed from the original PDF.]*
-:::
+Under this act 5 per cent. interest-bearing bonds to the amount of \$196,118,300 were issued, redeemable after 10 and payable 40 years from date. Bonds to the amount of \$3,882,500, bearing interest at 6 per cent., redeemable in 5 and payable in 20 years, were also issued under the same authority. These latter have been generally known as the "Five-twenties of March, 1864".
 
 (sec-five-twenties-june-1864)=
-## Five-Twenties of June, 1864
+## Five-Twenties of June, 1864 — Seven-Thirties of 1864 and 1865
 
-The act of June 30, 1864 (13 Statutes, 218), authorized a loan of \$400,000,000, and the issue therefor of bonds redeemable in not less than five nor more than thirty years, or, if deemed expedient, made payable at any period not more than forty years from date, with interest at not exceeding 6 per cent. per annum, payable semi-annually, in coin.
+A bill to authorize a loan of \$400,000,000 was reported in the House of Representatives June 20, 1864. The bill contained a provision that all bonds, treasury notes, and other obligations of the United States should be exempt from all taxation by or under any state or municipal authority. This provision was objected to on the ground that it would include legal-tender notes, certificates of indebtedness, and interest-bearing treasury notes, or, in other words, it would exempt from taxation the entire floating wealth of the country, except the notes issued by the national banks, which it was claimed could inure to the benefit of no other class of people than wealthy capitalists, the great mass of the people having no United States securities. It was said that a capitalist would be able under this act to withdraw all his means from state and municipal taxation, and thus make its burdens fall heavier on the poorer class. The policy of exempting any bonds whatever from taxation was severely commented on.
 
-Length of loan, 5 or 20 years; redeemable, at the pleasure of the government, after November 1, 1869; payable November 1, 1884; amount authorized, \$400,000,000; amount issued, \$125,561,300; sold at an average rate of 2 20/100 per cent. premium; interest, 6 per cent., payable semi-annually (May and November); outstanding June 30, 1880, \$68,250.
+It is worthy of note that not one of the speakers who debated this question referred to the fact that it had long before been decided by the Supreme Court of the United States. In the case of Weston *et al. vs.* The City Council of Charleston, Chief Justice Marshall delivered the opinion of the court, from which we quote as follows:
 
-### Issues
+> Congress has power to borrow "money on the credit of the United States". The stock it issues is the evidence of a debt created by the exercise of this power.
+>
+> The tax in question is a tax upon the contract subsisting between the government and the individual. It bears directly upon that contract, while subsisting and in full force. The power operates upon the contract the instant it is framed, and must imply a right to affect that contract. If the states and corporations throughout the union possess the power to tax a contract for the loan of money, what shall arrest this principle in its application to every other contract, what measure can government adopt which will not be exposed to its influence?
+>
+> But it is unnecessary to pursue this principle through its diversified application to all the contracts and to the various operations of government. No one can be selected which is of more vital interest to the community than this of borrowing money on the credit of the United States. No power has been conferred by the American people on their government the free and unburthened exercise of which more deeply affects every member of our republic. In war, when the honor, the safety, the independence of the nation are to be defended, when all its resources are to be strained to the utmost, credit must be brought in aid of taxation, and the abundant revenue of peace and prosperity must be anticipated to supply the exigencies, the urgent demands of the moment.
+>
+> The tax on government stock is thought by this court to be a tax on the contract, a tax on the power to borrow money on the credit of the United States, and consequently to be repugnant to the Constitution (Peters' Reports, 1829, vol. 2, page 465).
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1865 | | \$77,088,354 25 | \$9,000 00 | \$13,639,000 00 | \$90,736,354 25 |
-| 1866 | \$9,211,000 00 | | | | 9,241,000 00 |
-| 1867 | | | | | 25,531,300 00 |
-| 1868 | 52,645 75 | | | | 52,645 75 |
-| Total | | | | | 125,561,300 00 |
+The act was approved June 30, 1864 (13 Statutes, 218). Section 1 authorized the Secretary of the Treasury to borrow, from time to time, on the credit of the United States, \$400,000,000, and to issue therefor coupon or registered bonds of the United States, redeemable at the pleasure of the government after any period not less than five nor more than thirty years, or, if deemed expedient, made payable at any period not more than forty years from date; said bonds to be of such denominations as the Secretary might direct, not less than \$50, and to bear an annual interest not exceeding 6 per cent, payable semi-annually, in coin.
 
-### Redemptions
+Under this authority five-twenty bonds to the amount of \$125,561,300 were issued, bearing interest at 6 per cent, and were sold at an average rate of 2 531/1000 per cent. premium.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1871 | \$18,592,700 00 | \$2,829,600 00 | \$3,642,000 00 | \$14,530,750 00 | \$39,595,050 00 |
-| 1872 | | 1,765,200 00 | 4,789,200 00 | 4,205,650 00 | 13,120,100 00 |
-| 1873 | | 2,006,750 00 | 1,853,900 00 | 601,250 00 | 6,326,650 00 |
-| 1874 | | 138,800 00 | | | 8,473,300 00 |
-| 1876 | | 16,433,100 00 | 35,102,850 00 | 4,349,700 00 | 56,192,100 00 |
-| 1877 | 917,550 00 | 411,950 00 | 218,250 00 | 96,400 00 | 1,644,150 00 |
-| 1878 | 57,300 00 | 17,750 00 | 27,550 00 | 9,050 00 | 111,650 00 |
-| 1879 | 7,000 00 | 4,100 00 | 11,550 00 | 3,850 00 | 26,500 00 |
-| 1880 | 350 00 | 400 00 | 2,100 00 | 700 00 | 3,550 00 |
-| Sub-total | | | | | 125,493,050 00 |
-| Outstanding June 30, 1880 | | | | | 68,250 00 |
-| Total | | | | | 125,561,300 00 |
+### Seven-Thirties of 1864 and 1865
 
-(sec-five-twenties-1865)=
-## Five-Twenties of 1865
+Section 2 of the same act authorized the issue, in lieu of an equal amount of bonds authorized by the preceding section, and as a part of the same loan, \$200,000,000 in treasury notes of any denomination not less than \$10, payable at any time not exceeding three years, or, if thought more expedient, redeemable at any time after three years from date, and bearing interest not exceeding 7 3/10 per cent. per annum, payable in lawful money at maturity, or, at the discretion of the Secretary, semi-annually.
 
-The act of March 3, 1865 (13 Statutes, 468), authorized the issue of \$600,000,000 in bonds or treasury notes, in addition to amounts previously authorized; the bonds to be for not less than \$50, payable not more than forty years from date of issue, or after any period not less than five years; interest payable semi-annually, at not exceeding 6 per cent. per annum when in coin, or 7 3/10 per cent. per annum when in currency. In addition to the amount of bonds authorized by this act, authority was also given to convert treasury notes or other interest-bearing obligations into bonds authorized by it. The act of April 12, 1866 (14 Statutes, 31), construed the above act to authorize the Secretary of the Treasury to receive any obligations of the United States, whether bearing interest or not, in exchange for any bonds authorized by it, or to sell any of such bonds, provided the public debt should not be increased thereby.
+The act of March 3, 1865 (13 Statutes, 468), authorized a further loan of \$600,000,000, and the issue therefor of bonds or treasury notes.
 
-Length of loan, 5 or 20 years; redeemable November 1, 1870; payable November 1, 1885; amount authorized, indefinite; amount issued, \$203,327,250; sold at an average premium of 4 7/100 per cent.; interest, 6 per cent., payable semi-annually (May and November); outstanding June 30, 1880, \$114,550.
+An erroneous impression exists in the minds of many intelligent people that these seven-thirty coupon notes were made a legal tender by law and formed a part of our general currency circulation. This arises, no doubt, from the peculiar wording of a clause in the second section of the act already quoted above, which says: "Such of them as shall be made payable, principal and interest, at maturity shall be a legal tender to the same extent as United States notes for their face value, excluding interest." The fact is no portion of these notes were issued upon these terms, and but a comparatively small portion of them ever entered into circulation.
 
-### Issues
+Secretary Fessenden, in his annual report to Congress, dated December 6, 1864, refers to the manner in which these notes were placed upon the market, as follows:
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1868 | \$79,079,400 00 | \$131,837,050 00 | \$51,215,800 00 | \$101,991,650 00 | \$364,123,900 00 |
-| 1869 | 11,499,350 00 | 3,878,200 00 | 27,550 00 | 53,850 00 | 15,458,950 00 |
-| 1870 | 6,100 00 | 2,300 00 | 2,500 00 | 8,600 00 | 19,500 00 |
-| 1871 | 4,000 00 | 750 00 | 1,550 00 | 5,500 00 | 11,800 00 |
-| 1872 | 600 00 | 950 00 | 250 00 | 100 00 | 1,900 00 |
-| 1873 | | 500 00 | 1,000 00 | | 1,500 00 |
-| 1874 | | | 200 00 | | 200 00 |
-| 1878 | 250 00 | | | | 250 00 |
-| Total | | | | | 379,618,000 00 |
+> The prospect of negotiating a loan in the ordinary way was by no means flattering, as the notice for a loan of thirty-three millions, advertised on the 25th day of June, had been withdrawn on the 2d of July, the Secretary having reason to believe that such loan would not be taken on terms which it would be for the interest of the government to accept.
+>
+> Under these circumstances, the Secretary thought it advisable, in order to meet pressing emergencies, to borrow upon bonds or notes authorized by the various acts referred to \$50,000,000 of the banks in the cities of New York, Philadelphia, and Boston, and met the representatives of a large number of these institutions in New York for the purpose of effecting that object. The result proved, however, that, notwithstanding a professed, and, as the Secretary was convinced, a real desire to aid the government, these institutions were not able to furnish the assistance required upon terms which, under existing provisions of law, the Secretary felt authorized to accept.
+>
+> He had then no other alternative than to issue legal-tender notes to a very large amount or again to advertise for a loan, and he had no hesitation as to which course should be adopted. Accordingly, on the 25th of July, he issued proposals for a national loan, under the act of June 30, 1864, upon notes payable in three years, with semi-annual interest at 7 2/10 per cent. per annum in lawful money.
+>
+> Failing to raise the means required in the ordinary mode, and urged by the conviction that the large amount of suspended requisitions, swollen to more than \$130,000,000, should be reduced, the Secretary resolved to use all the means at his command to pay so much, at least, as was due to our brave soldiers, who were suffering from the long delay in satisfying their just claims, but still continuing to serve their country with unflinching courage and uncomplaining devotion. To effect this object he was compelled to replace the whole amount of five per cent. notes which had been canceled, amounting to more than \$80,000,000, and even slightly to exceed that sum. More fully to accomplish his purpose, the Secretary resolved to avail himself of a wish expressed by many officers and soldiers, through the paymasters, and offered to such as desired to receive them seven-thirty notes of small denominations. He was gratified to find that these notes were readily taken in payment to a large amount, our gallant soldiers, in many instances, not only receiving them with alacrity, but expressing their satisfaction at being able to aid their country by loaning money to the government.
 
-### Redemptions
+Secretary McCulloch, in his annual report dated December 4, 1865, said on this subject:
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1871 | | \$4,366,350 00 | \$1,702,200 00 | \$9,832,500 00 | \$51,367,200 00 |
-| 1872 | 1,362,100 00 | 5,911,150 00 | | 676,250 00 | 7,949,500 00 |
-| 1873 | 1,035,500 00 | 3,390,350 00 | | 663,650 00 | 5,286,300 00 |
-| 1874 | 3,835,850 00 | 524,500 00 | 196,800 00 | 30,000 00 | 4,390,350 00 |
-| 1875 | 1,650 00 | | 750 00 | 1,000 00 | 1,050 00 |
-| 1877 | 3,100 00 | 1,700 00 | | 150 00 | 1,000 00 |
-| 1878 | 2,200 00 | 100 00 | | | 5,700 00 |
-| Sub-total | | | 42,307,200 00 | 227,082,400 00 | 269,391,900 00 |
-| (continued) | 33,592,600 00 | 3,090,650 00 | 1,627,650 00 | 583,350 00 | 38,894,250 00 |
+> Upon the capture of Richmond and the surrender of the confederate armies it became apparent that there would be an early disbanding of the forces of the United States, and consequently heavy requisitions from the War Department for transportation and payment of the army, including bounties. As it was important that these requisitions should be promptly met, and especially important that not a soldier should remain in the service a single day for want of means to pay him, the Secretary perceived the necessity of realizing as speedily as possible the amount — \$530,000,000 — still authorized to be borrowed under this act. The seven and three-tenths notes had proved to be a popular loan, and although a security on longer time and lower interest would have been more advantageous to the government, the Secretary considered it advisable, under the circumstances, to continue to offer these notes to the public, and to avail himself, as his immediate predecessors had done, of the services of Jay Cooke, esq., in the sale of them. The result was in the highest degree satisfactory. By the admirable skill and energy of the agent, and the hearty co-operation of the national banks, these notes were distributed in every part of the northern and in some parts of the southern states, and placed within the reach of every person desiring to invest in them. No loan offered in the United States, notwithstanding the large amount of government securities previously taken by the people, was so promptly subscribed for as this. Before the first of August the entire amount of \$530,000,000 had been taken.
 
-:::{admonition} Table: Redemptions — Five-Twenties of 1865 (complete)
-*[The redemption schedule in the source contains overlapping rows in OCR; to be transcribed from the original PDF.]*
-:::
+**Statement showing the amount of seven-thirty notes issued under the acts of June 30, 1864, and March 3, 1865:**
 
-### Account corrections
-
-The amount received and covered into the treasury in 1865 on account of this loan is stated at \$675,556,297 02 (Receipts and Expenditures, 1865, p. xxxviii). Deduct from this \$3,945,900, erroneously covered as deposited with the treasurer of the United States, and charged against the loan by counter entry (report No. 16, p. 309; Receipts and Expenditures, 1865, pp. lvii, 257); also \$444,553 21, the amount reported in excess by national banks, covered, but afterwards refunded to Jay Cooke, subscription agent (report No. 154, p. 951; Receipts and Expenditures, 1866, p. 321); also \$604 88, reported in excess in the account of subscription agent (in small sums), and covered into the treasury, but properly belonging to the banks reporting the same; also \$100, excess in error, not located; and the result is \$671,165,138 93, the true amount received in 1865. These corrections having been made in this statement in the account of issues, the counter entries, to offset the same in the redemption account, have been made in conformity therewith. The premium realized on a portion of this loan, as stated in the Receipts and Expenditures, amounted to \$316,876 14.
+| Series | Total value |
+|--------|-------------|
+| First series, dated August 15, 1864 | \$299,992,500 |
+| Second series, dated June 15, 1865 | 331,000,000 |
+| Third series, dated July 15, 1865 | 199,000,000 |
+| **Total** | **\$829,992,500** |
 
 (sec-navy-pension-fund)=
 ## Navy Pension Fund
 
-The act of July 1, 1864 (13 Statutes, 414), authorized the Secretary of the Navy to invest in registered securities of the United States so much of the navy pension fund in the treasury, January 1 and July 1 in each year, as would not be required for the payment of naval pensions. Section 2 of the act of July 23, 1868 (15 Statutes, 170), fixed the interest on this fund at 3 per cent. per annum in lawful money, and confined its use to the payment of naval pensions exclusively.
+This fund was first created by section 9 of the act of March 1, 1799 (1 Statutes, 716), which act was repealed by the "act for the better government of the navy of the United States", approved April 23, 1800 (2 Statutes, 45), and the fund was re-established by section 9 of the last-named act, which is as follows:
 
-Length of loan, indefinite; amount authorized, indefinite; amount invested, \$14,000,000; sold at par; interest, 3 per cent., payable semi-annually (January and July); outstanding June 30, 1880, \$14,000,000.
+> That all money accruing or which has already accrued to the United States from the sale of prizes shall be and remain forever a fund for the payment of pensions and half pay, should the same be hereafter granted to the officers and seamen who may be entitled to receive the same; and if the said fund shall be insufficient for the purpose, the public faith is hereby pledged to make up the deficiency; but if it should be more than sufficient, the surplus shall be applied to the making of further provision for the comfort of the disabled officers, seamen, and marines, and for such as, though not disabled, may merit, by their bravery or long and faithful services, the gratitude of their country.
 
-### Issues
+By the same act the management of the fund was placed under the direction of the Secretaries of the Navy, Treasury, and War.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1865 | \$2,000,000 00 | | 1,000,000 00 | | 2,500,000 00 |
-| 1866–1869 | 1,750,000 00 | | 750,000 00 | | 500,000 00 |
-| Outstanding June 30, 1880 | | | | | 14,000,000 00 |
+On the 1st of March, 1837, the fund amounted to \$1,115,329 45, yielding an annual income of \$68,101 33, while there were 308 invalid pensioners, 158 widow pensioners, and 95 children pensioners, receiving in the whole pensions amounting to \$68,849. In other words, the fund was sufficient to pay all the pensions chargeable upon it.
 
-The deposits on account of this loan were made as follows: December 1, 1864, \$5,000,000; March 14, 1865, \$2,000,000; July 18, 1865, \$2,000,000; January 3, 1866, \$1,000,000; covered in, per warrant No. 700, June 30, 1866, on account of "temporary loan," per act of February 25, 1862. Deposited July 25, 1866, \$1,750,000; January 30, 1867, \$750,000; July 23, 1867, \$500,000; covered in, per warrants Nos. 562 and 563, September 30, 1867, for \$500,000, and \$2,500,000 on account of "temporary loan", per act of February 25, 1862. These amounts are included in the Receipts and Expenditures, as received on account of the "temporary loan", and in this statement have been deducted from that account and added to this, to agree with the true amount received on account of this loan. Deposited October 29, 1868, \$1,000,000; covered in, per warrant No. 243, November 20, 1869, on account of this loan, per act of July 23, 1868.
+On March 3, 1837, Congress passed a law which swept away the whole fund, the annual income of which had theretofore been sufficient not only to pay the pensions originally chargeable upon it, but also to pay, in addition, the renewals of the five-years' pensions. By its retroactive operation enormous sums were drawn. A single widow drew for arrears of pension \$22,950. Officers then and still in service, and in full pay, received sums of \$4,000 and \$5,000 each for their arrears.
 
-(sec-consols-1865)=
-## Consols of 1865
+On the 22d of June, 1864, a joint resolution prepared by the Secretary of the Navy was introduced in the Senate by the chairman of the committee on naval affairs. It was approved, and became a law July 1, 1864 (13 Statutes, 414), and authorized and directed the Secretary of the Navy, as trustee of the naval pension fund, to cause to be invested in the registered securities of the United States, on the first day of January and the first day of July of each year, so much of the said fund then in the treasury of the United States as might not be required for the payment of naval pensions for the then current fiscal year.
 
-The act of March 3, 1865 (13 Statutes, 468), authorized the issue of \$600,000,000 in bonds or treasury notes, in addition to amounts previously authorized; the bonds to be for not less than \$50, payable not more than forty years from the date of issue or after any period not less than five years; interest payable semi-annually, at not exceeding 6 per cent. per annum when in coin, or 7 3/10 per cent. per annum when in currency. In addition to the amount of bonds authorized by this act, authority was also given to convert treasury notes or other interest-bearing obligations into bonds authorized by it. The act of April 12, 1866 (14 Statutes, 31), construed the above act to authorize the Secretary of the Treasury to receive any obligations of the United States, whether bearing interest or not, in exchange for any bonds authorized by it, or to sell any such bonds, provided the public debt was not increased thereby.
+In his annual report of December 2, 1867, the Secretary said:
 
-### Issues
+> The naval pension fund has been increased during the year \$1,250,000, making the aggregate at the present time \$13,000,000. This amount having accrued to the United States from the sale of prizes, the public faith is pledged that it "shall be and remain forever a fund for the payment of pensions to the officers, seamen, and marines who may be entitled to receive the same".
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1866 | | | | \$16,152,450 00 | \$16,152,450 00 |
-| 1867 | \$69,846,300 00 | \$67,143,450 00 | \$94,526,450 00 | 93,678,125 00 | 325,194,325 00 |
-| 1868 | 118,908,300 00 | 129,447,700 00 | 53,103,750 00 | 149,488,500 00 | 450,948,250 00 |
-| 1869 | 34,256,850 00 | 1,362,100 00 | 542,300 00 | 230,050 00 | 36,391,300 00 |
-| 1870 | 323,050 00 | 170,800 00 | 93,600 00 | 83,350 00 | 670,800 00 |
-| 1871 | 59,950 00 | 42,700 00 | 39,050 00 | 35,800 00 | 177,500 00 |
-| 1872 | 16,300 00 | 31,400 00 | 39,000 00 | 33,950 00 | 120,650 00 |
-| 1873 | 15,700 00 | 12,550 00 | 14,350 00 | 15,450 00 | 58,050 00 |
-| 1874 | 6,250 00 | 7,350 00 | 9,750 00 | 22,300 00 | 45,650 00 |
-| 1875 | 5,200 00 | 9,200 00 | 4,650 00 | 12,600 00 | 31,650 00 |
-| 1876 | 4,900 00 | 2,800 00 | 2,950 00 | 2,350 00 | 13,000 00 |
-| 1877 | 2,000 00 | 9,000 00 | 4,250 00 | 4,000 00 | 19,250 00 |
-| 1878 | 800 00 | 2,350 00 | 2,950 00 | 1,300 00 | 7,400 00 |
-| 1879 | 1,500 00 | 4,600 00 | 1,550 00 | 1,950 00 | 9,600 00 |
-| 1880 | 700 00 | 600 00 | 900 00 | 450 00 | 2,650 00 |
-| Sub-total | | | | | 829,842,525 00 |
-| Unadjusted[^fn282] | | | | | 5,075 00 |
-| Outstanding June 30, 1880 | | | | | 144,900 00 |
-| Total | | | | | 829,992,500 00 |
+By the second section of the act of July 23, 1868 (15 Statutes, 170), it is provided that the interest on the fund known as the naval pension fund shall hereafter be at the rate of 3 per cent. per annum in lawful money.
 
-[^fn282]: For an explanation of this item, see "Notes to Recapitulation", post.
+In his report of December 7, 1868, the Secretary thus refers to the fund:
 
-(sec-consols-1867)=
-## Consols of 1867
+> It is difficult to reconcile the act of July last, which reduces the interest to 3 per cent. in currency, with the pledged faith previously given, which involves the national honor. Had this loan been made to states or individuals on the terms specified, the contract would have been literally fulfilled. This fund belongs unquestionably to the officers, seamen, and marines of the navy, who, by their courage, activity, and enterprise, stimulated by the pledged faith of the government, captured the prizes from the avails of which the fund is derived.
 
-The act of March 3, 1865 (13 Statutes, 468), as construed by the act of April 12, 1866 (14 Statutes, 31), authorized the issue of bonds in exchange for prior obligations of the United States, of which a further series (known as Consols of 1867) was issued from subscriptions and conversions of outstanding treasury notes. The terms conform to those of the principal five-twenty series: not less than \$50 denomination, payable not more than forty years from date of issue or after any period not less than five years, with interest payable semi-annually in coin. The Secretary of the Treasury was authorized to receive any obligations of the United States, whether bearing interest or not, in exchange for such bonds, or to sell such bonds, provided the public debt should not thereby be increased.
+Although taken up in the debt statement September 1, 1866, and thus apparently made a part of the outstanding debt, it can hardly be considered as a part of the public debt of the United States. Since the passage of the act of July 23, 1868, the interest on the fund seems to be properly a permanent appropriation of \$420,000 per annum, applicable exclusively to the payment of navy pensions.
 
-:::{admonition} Table: Issues and Redemptions — Consols of 1867
-*[The detailed issuance and redemption schedule for this series was not recovered by OCR; to be transcribed from the original PDF.]*
-:::
+(sec-five-twenties-1865)=
+## Five-Twenties of 1865 — Consols of 1865, 1867, and 1868
 
-(sec-consols-1868)=
-## Consols of 1868
+A bill to provide ways and means for the support of the government was reported from the committee of ways and means to the House of Representatives on the 27th of February, 1865, and at once taken up for consideration in committee of the whole. It was stated at the commencement of the debate that this bill had been prepared at the treasury, and was reported to the House with a few amendments, which, after consultation with the department, the committee recommended should be adopted.
 
-The act of March 3, 1865 (13 Statutes, 468), authorized the issue of \$600,000,000 in bonds or treasury notes, in addition to amounts previously authorized; the bonds to be for not less than \$50, payable not more than forty years from the date of issue or after any period not less than five years; interest payable semi-annually, at not exceeding 6 per cent. per annum when in coin, or 7 3/10 per cent. per annum when in currency. In addition to the amount of bonds authorized by this act, authority was also given to convert treasury notes or other interest-bearing obligations into bonds authorized by it. The act of April 12, 1866 (14 Statutes, 31), construed the above act to authorize the Secretary of the Treasury to receive any obligations of the United States, whether bearing interest or not, in exchange for any bonds authorized by it, or to sell any such bonds, provided the public debt was not increased thereby.
+It authorized the borrowing of \$600,000,000 for the next fiscal year, upon similar terms as had been granted for previous loans, with the exception that nothing authorized by this bill should be made a legal tender or be issued in smaller denominations than \$50. The annual rate of interest was limited to 6 per cent. if payable in coin, or 7 3/10 per cent. in currency, the bonds issued to be redeemable in not less than five nor more than forty years.
 
-Length of loan, 5 or 20 years; redeemable after July 1, 1873; payable July 1, 1888; amount authorized, indefinite; amount issued, \$42,539,350; sold at an average premium of 7 8/100 of 1 per cent.; interest, 6 per cent., payable semi-annually (January and July); outstanding June 30, 1880, \$752,300.
+Secretary Fessenden, in his annual report to Congress, dated December 6, 1864, refers to the payment of the interest in coin or currency in the following words:
 
-### Issues
+> The laws authorizing the issue of bonds bearing interest in coin specifically pledged the revenue from customs to the payment of that interest and provided for the collection of those duties in the same currency. In the opinion of the Secretary, that pledge should not be violated. A departure from it could only be vindicated by one of those state necessities which justify a nation in temporarily postponing its obligations in order to preserve the power to discharge them at a future day.
+>
+> In view of the serious considerations presented by this question, whether as affecting the market value of coin or the ability of government to meet its specific interest, should the war continue, from the revenue now specifically appropriated for that purpose, the Secretary is forced to the conclusion that we should in the future rely, for the most part, upon securities bearing interest in currency, convertible into bonds, the interest of which is payable in coin.
 
-| Fiscal year (quarter) | Amount |
-|---|---|
-| First quarter | \$23,265,000 00 |
-| | \$17,865,000 00 |
-| Second quarter | \$3,025,000 00 / \$135,000 00 |
-| Third quarter | \$9,765,000 00 / \$45,000 00 |
-| Fourth quarter | \$6,165,000 00 / \$5,000 00 |
-| Total | \$50,000,000 00 |
-| | 34,605,000 00 |
-| | 340,000 00 |
-| | 140,000 00 |
-| | 65,000 00 |
-| | 5,000 00 |
+The bill became a law March 3, 1865 (13 Statutes, 468). It authorized the Secretary of the Treasury to borrow, from time to time, on the credit of the United States, in addition to the amounts heretofore authorized, any sums not exceeding in the aggregate six hundred millions of dollars, and to issue therefor bonds or treasury notes of the United States. The interest on bonds and treasury notes, when payable in coin, was not to exceed six per centum per annum; and when not payable in coin was not to exceed seven and three-tenths per centum per annum.
 
-:::{admonition} Table: Issues — Consols of 1868 (complete)
-*[The column alignment was garbled by OCR; to be transcribed from the original PDF.]*
-:::
+Secretary McCulloch, in his annual report to Congress, dated December 4, 1865, recommended additional refunding legislation. He said:
 
-### Redemptions
+> Next in importance to the great questions involved in the restoration of the federal authority over the Southern states, and the re-establishment of civil government therein under the constitution, are the financial questions, embracing the currency, the public debt, and the revenue; all of which demand the early and careful attention of Congress. The fact that means have been raised, without foreign loans, to meet the expenses of a protracted and very costly war is evidence, not only of the great resources of the country, but of the wisdom of Congress in passing the necessary laws, and of the distinguished ability of the immediate predecessors of the present Secretary in administering them.
+>
+> The right of Congress, at all times, to borrow money and to issue obligations for loans in such form as may be convenient is unquestionable; but their authority to issue obligations for a circulating medium as money, and to make these obligations a legal tender, can only be found in the unwritten law which sanctions whatever the representatives of the people, whose duty it is to maintain the government against its enemies, may consider in a great emergency necessary to be done.
 
-| Fiscal year | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| Early | \$2,580,000 00 | \$19,180,000 00 | \$7,425,000 00 | \$3,295,000 00 | \$32,480,000 00 |
-| | 1,710,000 00 | 5,080,000 00 | 55,000 00 | 70,000 00 | 6,915,000 00 |
-| | 455,000 00 | 1,035,000 00 | 4,760,000 00 | 6,955,000 00 | 13,805,000 00 |
-| | 4,410,000 00 | 5,490,000 00 | 4,485,000 00 | 5,345,000 00 | 19,730,000 00 |
-| | 4,240,000 00 | 3,840,000 00 | 2,745,000 00 | 1,370,000 00 | 12,195,000 00 |
-| | 25,000 00 | | | | 25,000 00 |
-| Sub-total | | | | | 85,150,000 00 |
-| Outstanding June 30, 1880 | | | | | 5,000 00 |
-| Total | | | | | 85,155,000 00 |
+Secretary McCulloch recommended:
 
-:::{admonition} Table: Redemptions — Consols of 1868 (complete)
-*[The row labels (fiscal years) were not recovered by OCR; to be transcribed from the original PDF.]*
-:::
+> First. That Congress declare the compound-interest notes shall cease to be a legal tender from the day of their maturity.
+>
+> Second. That the Secretary be authorized, in his discretion, to sell bonds of the United States, bearing interest at a rate not exceeding 6 per cent., and redeemable and payable at such periods as may be conducive to the interests of the government, for the purpose of retiring not only compound-interest notes, but the United States notes.
 
-(sec-three-percent-certificates)=
+After a long and exciting debate the bill finally passed both houses, was approved by the President, and became a law April 12, 1866 (14 Statutes, 31). It extended and construed the act of March 3, 1865, to authorize the Secretary of the Treasury, at his discretion, to receive any treasury notes or other obligations issued under any act of Congress, whether bearing interest or not, in exchange for any description of bonds authorized. Of United States notes not more than ten millions of dollars might be retired and canceled within six months from the passage of this act, and thereafter not more than four millions of dollars in any one month.
+
+Under the authority conferred by these two acts the following 6 per cent. bonds have been issued:
+
+| Bond | Amount |
+|------|--------|
+| Five-twenties of 1865 | \$203,327,250 |
+| Consols of 1865 | 332,998,950 |
+| Consols of 1867 | 379,618,000 |
+| Consols of 1868 | 42,539,350 |
+| **Total** | **\$958,483,550** |
+
+(sec-three-per-cent-certificates)=
 ## Three Per Cent. Certificates
 
-The Three Per Cent. Certificates were issued under authority conferred during and after the Civil War for the adjustment of temporary obligations and for the redemption of fractional and interest-bearing notes, at a rate of 3 per cent. per annum. They were used as short-term interest-bearing instruments in the treasury's cash-management operations during the period of specie inconvertibility.
+On the 21st of February, 1867, Mr. Hooper, of Massachusetts, reported to the House of Representatives from the committee of ways and means "A bill to provide ways and means for the payment of compound-interest notes".
 
-:::{admonition} Table: Issues and Redemptions — Three Per Cent. Certificates
-*[The detailed issuance and redemption schedule was not recovered by OCR in the present range; to be transcribed from the original PDF.]*
-:::
+The first section of the bill directed the Secretary of the Treasury to receive on deposit compound-interest notes, with the accrued interest, as a temporary loan, issuing certificates therefor bearing interest at a rate not exceeding 3.65 per cent., principal and interest payable in lawful money, and that these certificates might constitute and be held by the national banks as a part of their reserve fund. The second section provided for the repeal of so much of the act of April 12, 1866, as authorized the retirement of not more than \$10,000,000 within six months from the date of its passage, and thereafter not more than \$4,000,000 in any one month, and prohibited the Secretary of the Treasury from retiring and canceling any such notes during the current year.
+
+It was stated in the course of debate on the bill that there was outstanding \$140,000,000 of compound-interest notes, falling due within the year, together with the interest; and while there was already sufficient authority under existing laws to provide for their redemption by conversion into five-twenty bonds or a further issue of seven-thirty notes, still it would be far better for the public interest that they should be provided for in the way proposed than by the issue of legal-tender notes, although a large saving of interest would be gained by the adoption of the latter course.
+
+The bill caused an extended debate in both houses, and was finally agreed to in conference committee, and became a law March 2, 1867 (14 Statutes, 558). It authorized and directed the Secretary of the Treasury to issue temporary loan certificates bearing interest at a rate not exceeding 3 per cent. per annum, principal and interest payable in lawful money on demand, and that these certificates of temporary loan might constitute and be held by any national bank holding or owning the same as a part of the reserve.
+
+The act of July 25, 1868 (15 Statutes, 183), authorized \$25,000,000 additional of these certificates for the sole purpose of redeeming and retiring the remainder of the compound-interest notes. The amount issued under this authority was \$85,155,000, including reissues.
 
 (sec-certificates-indebtedness-1870)=
 ## Certificates of Indebtedness of 1870
 
-The act of July 8, 1870 (16 Statutes, 197), authorized the issue of certificates of indebtedness, payable five years after date, with interest at 4 per cent. per annum, payable semi-annually, principal and interest, in lawful money, to be hereafter appropriated and provided for by Congress. These certificates were issued, one-third to the state of Maine and two-thirds to the state of Massachusetts, both for the use and benefit of the European and North American Railway Company, and were in full adjustment and payment of any and all claims of said states or railway company for moneys expended (or interest thereon) by the state of Massachusetts on account of the war of 1812–'15.
+The circumstances which gave rise to the issue of these securities are fully set forth in the following report of the committee to whom the matter had been referred by the House of Representatives:
 
-Length of loan, 5 years; payable September 1, 1875; amount authorized, \$678,362 41; amount issued, \$678,362 41; sold at par; interest, 4 per cent., payable semi-annually (March and September); final redemption, December 31, 1875.
+> The committee of claims, to which was referred a bill entitled "A bill to refund to the states of Massachusetts and Maine interest paid by them on advances to the United States, and to provide for the defense of the northeastern frontier", have had the same under consideration, and submit the following report:
+>
+> The advances referred to in said bill were for expenditures made by Massachusetts for the benefit of the United States in the war of 1812–'15 with Great Britain. Maine was then an integral part of Massachusetts, and afterward, by the terms of separation from Massachusetts, made in 1820, she became the owner of one-third part of the claim for reimbursement on account of said expenditures.
+>
+> These expenditures amounted to the sum of \$843,349 60, and of this sum the United States, on the 2d day of March, 1831, refunded \$430,748 26, and on the 3d day of March, 1859, the further sum of \$227,176 48, making in all \$357,924 74, and rejected, or left unpaid, the sum of \$185,424 86.
+>
+> Upon the amount thus recognized and refunded the said states make a claim for an allowance of interest upon it, to be computed by the usual and legal methods, and applying the limitation that the amount shall not at any time be in excess of the amount of interest the state of Massachusetts was then paying or losing. By this mode of computation, and by the application of this restriction, the amount of interest to be refunded or repaid is found to amount to about \$1,245,000.
 
-:::{admonition} Table: Issues and Redemptions — Certificates of Indebtedness of 1870
-*[The detailed quarterly schedule was not recovered by OCR; to be transcribed from the original PDF.]*
-:::
+The committee found that it had been the uniform practice of the United States to allow and pay interest to the states upon expenditures made by them for war purposes from and including the revolutionary war to the war of the rebellion, the rules applied at different times being more or less restrictive.
 
-(sec-five-percent-1881)=
-## Five Per Cent. Loan of 1881
+The bill passed the House June 22 — yeas 100, nays 62 — and, passing the Senate July 7, became a law July 8, 1870 (16 Statutes, 197). It provided that there be allowed on the claim of the state of Massachusetts for interest paid by her on money expended by said state on account of the war with Great Britain, 1812 to 1815, the sum of \$678,362 41, in full of said claim. The Secretary of the Treasury was authorized and directed to pay one-third part of the claim to the state of Maine and the other two-thirds to the state of Massachusetts, by an issue to each of said states, for the use and benefit of said European and North American Railway Company, of an amount of United States certificates of indebtedness equal to its share in the whole sum allowed and to be paid; each certificate to run five years from its date, interest payable semi-annually at the rate of 4 per centum per annum, payable, both principal and interest, in lawful money of the United States.
 
-The Five Per Cent. Loan of 1881 was authorized in connection with the refunding operations of the treasury, providing for the issue of bonds to mature in 1881, bearing interest at 5 per cent. per annum, payable quarterly in coin. It formed one principal component of the post-war refunding program whose object was to retire higher-interest obligations, principally the Five-Twenties and other 6 per cent. bonds of the war period, and to replace them with longer-term instruments at lower rates, the whole operation being conducted in the course of specie resumption.
+(sec-funded-loans)=
+## Funded Loans of 1881, 1891, and 1907
 
-### Issues
+In 1867 the first issue of the 6 per cent. bonds, known as "five-twenties", which were authorized by the act of February 25, 1862 (12 Statutes, 345), became redeemable at the pleasure of the government. The question of refunding them and five-twenty bonds of other issues at lower rates of interest had been discussed by the Secretary of the Treasury in his annual report to Congress in 1866, but the agitation of the question as to the kind of money in which the various obligations of the government should be paid had so excited the apprehensions of investors as to prevent the execution of any refunding scheme, and none was then adopted by Congress.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1871 | | | | \$59,669,150 00 | \$59,669,150 00 |
-| 1872 | \$2,757,350 00 | \$34,571,150 00 | \$103,002,350 00 | | 140,330,850 00 |
-| 1874 | 74,000,000 00 | 15,924,500 00 | 24,491,650 00 | 1,384,600 00 | 115,800,750 00 |
-| 1875 | 6,397,150 00 | 39,500,000 00 | 17,728,550 00 | 32,880,000 00 | 96,505,700 00 |
-| 1876 | 25,650,000 00 | 37,602,000 00 | 39,652,850 00 | 1,648,200 00 | 104,553,050 00 |
-| 1877 | 634,650 00 | | 500,000 00 | | 1,134,650 00 |
-| Total | | | | | 517,994,150 00 |
+The act to strengthen the public credit was passed March 18, 1869 (16 Statutes, 1), and reads as follows:
 
-### Redemptions
+> Be it enacted, &c., That in order to remove any doubt as to the purpose of the government to discharge all just obligations to the public creditors, and to settle conflicting questions and interpretations of the laws by virtue of which such obligations have been contracted, it is hereby provided and declared that the faith of the United States is solemnly pledged to the payment in coin or its equivalent of all the obligations of the United States not bearing interest, known as United States notes, and of all the interest-bearing obligations of the United States, except in cases where the law authorizing the issue of any such obligation has expressly provided that the same may be paid in lawful money or other currency than gold and silver. But none of said interest-bearing obligations not already due shall be redeemed or paid before maturity unless at such time United States notes shall be convertible into coin at the option of the holder, or unless at such time bonds of the United States bearing a lower rate of interest than the bonds to be redeemed can be sold at par in coin and the United States also solemnly pledges its faith to make provision at the earliest practicable period for the redemption of the United States notes in coin.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1877 | | | \$9,553,800 00 | | \$9,553,800 00 |
-| 1880 | | | 9,477,450 00 | \$14,098,000 00 | 23,575,450 00 |
-| Sub-total | | | | | 33,129,250 00 |
-| Outstanding June 30, 1880 | | | | | 484,864,900 00 |
+Secretary Boutwell, in his first report on the finances, dated December 6, 1869, advised that a portion of the five-twenty bonds should be funded in a new loan to an amount not exceeding \$1,200,000,000, divided into three classes of \$400,000,000 each, the first to be payable in fifteen years, and to be paid in twenty years; the second to be payable in twenty years, and to be paid in twenty-five years; and the third to be payable in twenty-five years, and to be paid in thirty years.
 
-(sec-four-and-half-percent-1891)=
-## Four and One-Half Per Cent. Loan of 1891
+On the 12th of January, 1870, a bill "to authorize the refunding and consolidation of the national debt, to extend banking facilities, and to establish specie payments" was introduced in the Senate by Mr. Sumner, of Massachusetts, and was extensively debated for several months, during which time the financial system pursued by the government during the war of the rebellion was fully reviewed.
 
-The amount of 4½ per cent. bonds issued under authority of the refunding acts was \$185,000,000. In addition to this amount there were sold of 4½ per cent. bonds for resumption purposes, under authority of the act of January 14, 1875 (18 Statutes, 296), commonly known as the resumption act, \$65,000,000 (see Part 1, ante).
+Various amendments to the bill were adopted, and it finally passed both houses, and became a law July 14, 1870 (16 Statutes, 272). The act authorized the Secretary of the Treasury to issue, in a sum or sums not exceeding in the aggregate two hundred million dollars, coupon or registered bonds redeemable in coin of the present standard value, at the pleasure of the United States, after ten years from the date of their issue, and bearing interest, payable semi-annually, in such coin at the rate of five per cent. per annum; also a sum not exceeding in the aggregate three hundred million dollars of like bonds payable at the pleasure of the United States after fifteen years, and bearing interest at the rate of four and a half per cent. per annum; also a sum not exceeding in the aggregate one thousand million dollars of like bonds payable at the pleasure of the United States after thirty years, and bearing interest at the rate of four per cent. per annum. All classes of bonds and the interest thereon shall be exempt from the payment of all taxes or duties of the United States, as well as from taxation in any form by or under state, municipal, or local authority.
 
-Length of loan, 15 years; redeemable September 1, 1891; amount authorized, indefinite; amount issued, \$250,000,000; sold at par; interest, 4½ per cent., payable quarterly (March, June, September, and December); outstanding June 30, 1880, \$250,000,000.
+The act of January 20, 1871 (16 Statutes, 399), increased the amount of bonds bearing five per centum interest per annum to five hundred millions of dollars, and provided that the interest might be made payable quarter-yearly.
 
-### Issues
+The first step toward refunding under these acts was taken by Secretary Boutwell on the 28th of February, 1871, by the issue of public notice that on and after the 6th of March following books would be opened in this country and Europe for subscriptions to the several classes of bonds to be issued under the refunding acts.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1877 | | | \$16,400,000 00 | | |
-| 1879 | 10,000,000 00 | | | | |
+The following is a statement of the amount of the coin-interest-bearing debt outstanding on the 1st of March, 1871:
 
-:::{admonition} Table: Issues — Four and One-Half Per Cent. Loan of 1891 (complete)
-*[The detailed issuance schedule across all fiscal years was not fully recovered by OCR; to be transcribed from the original PDF.]*
-:::
+| Title of loan | Rate | Amount |
+|---------------|------|--------|
+| Loan of 1858 | 5% | \$20,000,000 |
+| Loan of February, 1861 ('81's) | 6% | 18,415,000 |
+| Oregon war debt | 6% | 945,000 |
+| Loan of July and August, 1861 ('81's) | 6% | 189,318,100 |
+| Five-twenties of 1862 | 6% | 493,738,350 |
+| Loan of 1863 ('81's) | 6% | 75,000,000 |
+| Ten-forties of 1864 | 5% | 194,567,300 |
+| Five-twenties of March, 1864 | 6% | 3,102,600 |
+| Five-twenties of June, 1864 | 6% | 102,028,900 |
+| Five-twenties of 1865 | 6% | 182,112,450 |
+| Consols of 1865 | 6% | 264,619,700 |
+| Consols of 1867 | 6% | 338,832,550 |
+| Consols of 1868 | 6% | 39,663,750 |
+| **Total** | | **\$1,922,343,700** |
 
-(sec-four-percent-1907)=
-## Four Per Cent. Loan of 1907
+The act of December 17, 1873 (18 Statutes, 1), authorized the issue of an equal amount of bonds of the "loan of 1858" which the holders thereof might, on or before February 1, 1874, elect to exchange for bonds bearing the same rate of interest issued under the refunding acts. Under this authority \$13,957,000 of the loan of 1881 and \$260,000 of the loan of 1907 were issued in exchange for a like amount of bonds of the "loan of 1858".
 
-The amount of 4 per cent. bonds issued under authority of the refunding acts above mentioned, including those issued in redemption of refunding certificates (act of February 26, 1879, see page 210), was \$708,980,800. In addition to this amount there were sold for resumption purposes, under authority of the act of January 14, 1875, commonly called the resumption act (18 Statutes, 296), bonds in the amount of \$30,500,000, of which \$5,500,000 was applied to the payment of the "Halifax award" (see Part 1, ante).
+### Act of January 14, 1875 — Specie Payments
 
-Length of loan, 30 years; redeemable July 1, 1907; amount authorized, indefinite; amount issued, \$739,480,800; sold at par to ½ per cent. premium; interest, 4 per cent., payable quarterly (January, April, July, and October); outstanding June 30, 1880, \$737,980,800.
+The act of January 14, 1875 (18 Statutes, 290), entitled "An act to provide for the resumption of specie payments", authorized the Secretary of the Treasury, as rapidly as practicable, to cause to be coined, at the mints of the United States, silver coins of the denominations of ten, twenty-five, and fifty cents, of standard value, and to issue them in redemption of an equal number and amount of fractional currency of similar denominations. It also provided that on and after the first day of January, 1879, the Secretary of the Treasury shall redeem, in coin, the United States legal-tender notes then outstanding, on their presentation for redemption at the office of the assistant treasurer of the United States in the city of New York, in sums of not less than fifty dollars.
 
-### Issues
+Under the authority granted by this act 5 per cent. bonds of the "loan of 1881" were issued to the amount of \$17,494,150, for the purpose of replacing the coin used in the purchase of silver applied to the redemption of fractional currency. Bonds have been sold for resumption purposes since March 1, 1877, amounting to \$65,000,000 of the 4½ per cent. loan of 1891, and \$25,000,000 of the 4 per cent. loan of 1907. In 1878 there were issued \$5,500,000 of the 4 per cent. bonds of 1907, for the purpose of replacing the coin used in payment of the Halifax award.
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1878 | | \$64,909,000 00 | \$4,950,000 00 | \$19,000,000 00 | \$98,850,000 00 |
-| 1879 | | 47,200,000 00 | 250,700,000 00 | 217,629,900 00 | 568,179,900 00 |
-| 1880 | | 1,333,500 00 | 526,800 00 | 463,450 00 | 72,450,900 00 |
-| Total | | | | | 739,480,800 00 |
+The whole amount of bonds issued under the several refunding acts are as follows:
 
-### Redemption
+| Loan | Amount |
+|------|--------|
+| Five per cent. loan of 1881 | \$517,494,150 |
+| Four and one-half per cent. loan of 1891 | 250,000,000 |
+| Four per cent. loan of 1907 | 739,480,800 |
 
-| Fiscal year. | Amount |
+The following is a statement showing the refunding operations since March 1, 1871, and the reduction of the annual interest charge:
+
+| | Amount |
 |---|---|
-| 1880 | \$1,500,000 00 |
-| Outstanding June 30, 1880 | 737,980,800 00 |
-| Total | 739,480,800 00 |
+| Interest-bearing debt, March 1, 1871 | \$1,977,581,700 00 |
+| Interest-bearing debt, July 1, 1880 | 1,723,993,100 00 |
+| Reduction in interest-bearing debt | 253,588,600 00 |
+| Annual interest charge, March 1, 1871 | 114,858,869 00 |
+| Annual interest charge, July 1, 1880 | 79,633,981 00 |
+| Reduction in annual interest charge | 35,224,888 00 |
+| Debt, less cash in treasury, March 1, 1871 (principal) | \$2,283,145,432 13 |
+| Debt, less cash in treasury, July 1, 1880 | 1,919,326,747 75 |
+| Total reduction | 363,818,684 38 |
 
 (sec-refunding-certificates)=
 ## Refunding Certificates
 
-The act of February 26, 1879 (20 Statutes, 321), authorized the Secretary of the Treasury to issue, in exchange for lawful money of the United States, certificates of deposit, of the denomination of ten dollars, bearing interest at the rate of 4 per cent. per annum, and convertible at any time, with accrued interest, into the 4 per cent. bonds described in the refunding act; the money so received to be applied only to the payment of the bonds bearing interest at a rate not less than 5 per cent., in the mode prescribed by said act.
+These certificates were authorized by act of February 26, 1879, bearing interest at 4 per cent. per annum, and convertible at any time, with accrued interest, into the four per cent. bonds described in the refunding act; the money so received to be applied only to the payment of the bonds bearing interest at a rate of not less than five per cent.
 
-Length of loan, indefinite; redeemable by conversion into 4 per cent. bonds of 1907; amount authorized, indefinite; amount issued, \$40,012,750; sold at par; interest, 4 per cent., payable on conversion; outstanding June 30, 1880, \$1,367,000.
+Under this act refunding certificates have been issued amounting to \$40,012,750, all of which have been refunded into 4 per cents of 1907 except \$1,367,000, outstanding June 30, 1880.
 
-### Issues
+(sec-certificates-deposit)=
+## Certificates of Deposit
 
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1873 | \$15,630,000 00 | \$17,715,000 00 | \$9,230,000 00 | \$14,585,000 00 | \$57,160,000 00 |
-| 1874 | 8,160,000 00 | 31,250,000 00 | 20,645,000 00 | 20,460,000 00 | 80,515,000 00 |
-| 1875 | 15,915,000 00 | 12,490,000 00 | 20,055,000 00 | 32,235,000 00 | 80,695,000 00 |
-| 1876 | 21,440,000 00 | 17,040,000 00 | 25,195,000 00 | 19,055,000 00 | 82,730,000 00 |
-| 1877 | 6,775,000 00 | 19,805,000 00 | 19,575,000 00 | 31,000,000 00 | 77,155,000 00 |
-| 1878 | 19,700,000 00 | 17,080,000 00 | 15,845,000 00 | 34,025,000 00 | 86,650,000 00 |
-| 1879 | 15,780,000 00 | 13,265,000 00 | 24,165,000 00 | 36,130,000 00 | 89,340,000 00 |
-| 1880 | 25,485,000 00 | 5,340,000 00 | 6,410,000 00 | 10,120,000 00 | 47,355,000 00 |
-| Total | | | | | 601,600,000 00 |
+On the 21st of February, 1872, Mr. Merriam, of New York, introduced in the House of Representatives "A bill to facilitate bank clearing-house exchanges", which was read twice and referred to the committee on banking and currency. The bill as reported back from the committee on the 8th of March, with several amendments, and number and title changed, came up for consideration on the 10th of May. After a brief explanation from Mr. Merriam, in which he stated that no principle of finance was involved in it, but that it was simply intended to lessen the burdens of the clearing-house exchanges, which had grown to such a magnitude as to render it almost impossible to transact business with safety without the aid of this legislation, the rules were suspended and the bill passed the House unanimously. It passed the Senate on the 6th of June, without debate, and became a law June 8, 1872 (17 Statutes, 336).
 
-### Redemptions
-
-| Fiscal year. | First quarter. | Second quarter. | Third quarter. | Fourth quarter. | Total. |
-|---|---|---|---|---|---|
-| 1873 | | \$7,975,000 00 | \$10,150,000 00 | \$7,305,000 00 | \$25,430,000 00 |
-| 1874 | \$28,640,000 00 | 5,780,000 00 | 5,645,000 00 | 13,420,000 00 | 53,485,000 00 |
-| 1875 | 18,325,000 00 | 27,640,000 00 | 18,210,000 00 | 16,865,000 00 | 81,040,000 00 |
-| 1876 | 10,195,000 00 | 42,525,000 00 | 26,140,000 00 | 20,445,000 00 | 108,305,000 00 |
-| 1877 | 5,095,000 00 | 23,325,000 00 | 15,420,000 00 | 11,195,000 00 | 55,035,000 00 |
-| 1878 | 34,550,000 00 | 27,360,000 00 | 23,460,000 00 | 12,485,000 00 | 97,855,000 00 |
-| 1879 | 21,825,000 00 | 19,460,000 00 | 31,000,000 00 | 33,440,000 00 | 105,725,000 00 |
-| 1880 | 24,640,000 00 | 26,310,000 00 | 8,160,000 00 | 4,150,000 00 | 63,260,000 00 |
-| Sub-total | | | | | 587,135,000 00 |
-| Outstanding June 30, 1880 | | | | | 14,465,000 00 |
-| Total | | | | | 601,600,000 00 |
+The act authorized the Secretary of the Treasury to receive United States notes on deposit, without interest, from national banking associations, in sums not less than \$10,000, and to issue certificates therefor in such form as the Secretary might prescribe, in denominations of not less than \$5,000; which certificate shall be payable on demand in United States notes, at the place where the deposits were made. The United States notes so deposited in the treasury were not to be counted as part of the legal reserve; but the certificates issued therefor might be held and counted by national banks as part of their legal reserve, and might be accepted in the settlement of clearing-house balances at the places where the deposits therefor were made.
 
 (sec-silver-certificates)=
 ## Silver Certificates
 
-The act of February 28, 1878 (20 Statutes, 26, section 3), authorized the issue of certificates in denominations corresponding to those of United States notes, but not of smaller denominations than ten dollars, in exchange for the coin authorized by this act, said coin to be deposited by the holder with the treasurer or any assistant treasurer of the United States, and be retained in the treasury for the payment of the certificates on their presentation; said certificates to be receivable for customs, taxes, and all public dues, and be subject to reissue when so received.
+On the 5th of November, 1877, Mr. Bland, of Missouri, introduced in the House of Representatives "A bill to authorize the free coinage of the standard silver dollar, and to restore its legal-tender character". It authorized the coinage of silver dollars of the weight of 412½ grains, troy, of standard silver, in conformity with the provisions of the act of January 18, 1837 (5 Statutes, 136), which coins, together with all silver dollars heretofore coined by the United States of like weight and fineness, should be a legal tender, at their nominal value, for all debts and dues, public and private, except where otherwise provided by contract; and provided that any owner of silver bullion might deposit the same at any United States mint or assay office, to be coined into such dollars, for his benefit, upon the same terms and conditions as gold bullion deposited for coinage under existing laws.
 
-Length of loan, indefinite; redeemable on demand; amount authorized, indefinite; amount issued, \$21,018,000; sold at par; interest, none; outstanding June 30, 1880, \$12,374,270.
+The bill appears to have passed the House, without debate, the same day, by a vote of 163 ayes; 34 nays; not voting, 93. The bill was reported to the Senate by the committee on finance November 21, with several important amendments added thereto, and it came up for consideration on the 6th of December. On the 31st of January, 1878, Mr. Booth, of California, introduced in the Senate an amendment as follows:
 
-:::{admonition} Table: Issues and Redemptions — Silver Certificates
-*[The detailed fiscal-year schedule for the Silver Certificates was not recovered by OCR (the template cells in the source are empty); to be transcribed from the original PDF.]*
-:::
+> Sec. —. That any holder of the coin authorized by this act may deposit the same with the treasurer or any assistant treasurer of the United States, in sums not less than ten dollars, and receive therefor certificates of not less than ten dollars each, corresponding with the denominations of the United States notes. The coin deposited for or representing the certificates shall be retained in the treasury for the payment of the same on demand. Said certificates shall be receivable for customs, taxes, and all public dues, and, when so received, may be reissued.
+
+After an extended debate, during which the several amendments to the original bill as it passed the House were freely discussed, and the whole question of the remonetization of silver was thoroughly reviewed, the bill, as amended, passed the Senate on the 15th, and the Senate amendments were agreed to by the House on the 21st of February. The President declined to approve it, and gave his reasons therefor in a special message to the House of Representatives, notwithstanding which the bill was passed over the veto of the President the same day, and became a law February 28, 1878 (20 Statutes, 25).
+
+The act provided for the coinage of silver dollars of the weight of 412½ grains troy of standard silver, which, together with all silver dollars heretofore coined by the United States, of like weight and fineness, should be a legal tender, at their nominal value, for all debts and dues, public and private, except where otherwise expressly stipulated in the contract. The Secretary of the Treasury was authorized and directed to purchase, from time to time, silver bullion, at the market price thereof, not less than \$2,000,000 worth per month, nor more than \$4,000,000 worth per month, and cause the same to be coined monthly, as fast as so purchased, into such dollars.
+
+The President was directed to invite the governments of the countries composing the Latin Union, so called, and of such other European nations as he might deem advisable, to join the United States in a conference to adopt a common ratio between gold and silver, for the purpose of establishing, internationally, the use of bi-metallic money, and securing fixity of relative value between those metals.
+
+Section 3 of the act authorized any holder of the coin authorized by the act to deposit the same with the treasurer or any assistant treasurer of the United States, in sums not less than ten dollars, and receive therefor certificates of not less than ten dollars each, corresponding with the denominations of the United States notes. The coin deposited for or representing the certificates was to be retained in the treasury for the payment of the same on demand. Said certificates were to be receivable for customs, taxes, and all public dues, and, when so received, might be reissued.
+
+The whole amount issued under the provisions of section 3 of the above act, including reissues, to June 30, 1880, was \$21,018,000.
+
+## Part II — Issues and Redemptions Data
+
+*Note: For the detailed issuance and redemption data for each loan treated above — exact dates, amounts, and rates of sale — see the **Recapitulation Tables** in Chapter 5, which consolidate all issues and redemptions from 1776 through 1880.*
