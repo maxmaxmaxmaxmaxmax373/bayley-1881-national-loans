@@ -313,6 +313,26 @@ Secretary McCulloch recommended:
 >
 > Second. That the Secretary be authorized, in his discretion, to sell bonds of the United States, bearing interest at a rate not exceeding 6 per cent., and redeemable and payable at such periods as may be conducive to the interests of the government, for the purpose of retiring not only compound-interest notes, but the United States notes.
 
+Secretary McCulloch further recommended that he be authorized to sell, in his discretion, bonds of a similar character to meet any deficiency during the fiscal year; to reduce the temporary loan by such an amount as he might deem advisable; to pay the certificates of indebtedness as they matured; and also to take up any portion of the debt maturing prior to 1869 that could be advantageously retired, and said: "When the whole debt shall be put in such a form that the interest only can be demanded until the government shall be in a condition to pay the principal it can be easily managed."
+
+It was stated in debate that the Secretary had already sufficient power to carry out the plan proposed by this bill. In reply, McCulloch wrote the following letter to the chairman of the committee of ways and means:
+
+> Treasury Department, March 23, 1866.
+>
+> Dear Sir: Your favor of the 22d instant is received, transmitting to me a resolution stating that the committee has received information that the Secretary is of opinion that he is, without further legislation, sufficiently armed with power to carry out the policy announced in his late annual report, and requesting the Secretary to inform the committee whether such is his opinion.
+>
+> In reply, I have to say that I must have failed to make myself clearly understood by the honorable member of the committee to whom reference is made. I did not intend to say to him that the Secretary is, "without further legislation, sufficiently armed with power to carry out the policy announced in his late annual report;" but I did intend to say to him that, if it should be found necessary to modify in any important particulars the provisions of the bill reported by the committee, I should prefer that it would not become a law. It will be, in my opinion, a national calamity if Congress shall fail to grant additional powers to the Secretary, for it will be very difficult, if not impossible, to fund the interest-bearing notes under existing laws.
+>
+> I regard it as a matter of the greatest importance that the power of the Secretary should not be strictly defined. If, for example, the Secretary should be prohibited from selling bonds below par, it would be easy, as the market in the process of funding must be liberally supplied, for the enemies of the government to form successful combinations for keeping the bonds at such a price as would prevent the negotiation of them. On the other hand, if the authority of the Secretary in this respect is not limited, no such combinations would be likely to be formed. In my opinion, the best way of keeping the bonds at a premium will be to leave the Secretary unrestrained in the sale of them.
+>
+> In regard to the other important feature of the bill — the authority to withdraw United States notes — I have merely to remark that I can conceive it to be of vast importance to the business of the country, the welfare of the people, and the credit of the nation that such a financial policy shall be adopted by this Congress as will prepare the way for a return to specie payments. The apprehension which exists that if power is given to the Secretary to retire United States notes the circulation of the country will be ruinously contracted is without any substantial foundation. Authority to reduce the currency will go very far to prevent the necessity for a reduction. The battle will be more than half fought when the government shall adopt a healthy financial policy.
+>
+> I am, very truly, your obedient servant,
+>
+> H. McCulloch, *Secretary of the Treasury.*
+>
+> Hon. Justin S. Morrill, *Chairman of Committee of Ways and Means, House of Representatives.*
+
 After a long and exciting debate the bill finally passed both houses, was approved by the President, and became a law April 12, 1866 (14 Statutes, 31). It extended and construed the act of March 3, 1865, to authorize the Secretary of the Treasury, at his discretion, to receive any treasury notes or other obligations issued under any act of Congress, whether bearing interest or not, in exchange for any description of bonds authorized. Of United States notes not more than ten millions of dollars might be retired and canceled within six months from the passage of this act, and thereafter not more than four millions of dollars in any one month.
 
 Under the authority conferred by these two acts the following 6 per cent. bonds have been issued:
@@ -400,6 +420,34 @@ The act of December 17, 1873 (18 Statutes, 1), authorized the issue of an equal 
 The act of January 14, 1875 (18 Statutes, 290), entitled "An act to provide for the resumption of specie payments", authorized the Secretary of the Treasury, as rapidly as practicable, to cause to be coined, at the mints of the United States, silver coins of the denominations of ten, twenty-five, and fifty cents, of standard value, and to issue them in redemption of an equal number and amount of fractional currency of similar denominations. It also provided that on and after the first day of January, 1879, the Secretary of the Treasury shall redeem, in coin, the United States legal-tender notes then outstanding, on their presentation for redemption at the office of the assistant treasurer of the United States in the city of New York, in sums of not less than fifty dollars.
 
 Under the authority granted by this act 5 per cent. bonds of the "loan of 1881" were issued to the amount of \$17,494,150, for the purpose of replacing the coin used in the purchase of silver applied to the redemption of fractional currency. Bonds have been sold for resumption purposes since March 1, 1877, amounting to \$65,000,000 of the 4½ per cent. loan of 1891, and \$25,000,000 of the 4 per cent. loan of 1907. In 1878 there were issued \$5,500,000 of the 4 per cent. bonds of 1907, for the purpose of replacing the coin used in payment of the Halifax award.
+
+### Eads Jetties and the Mississippi River South Pass
+
+The act of March 3, 1875 (18 Statutes, 466), directed the Secretary of the Treasury to issue bonds of the character and description set out in the act of July 14, 1870 (16 Statutes, 272), to James B. Eads or his legal representatives in payment at par of the warrants of the Secretary of War for the construction of jetties and auxiliary works to maintain a wide and deep channel between the South pass of the Mississippi river and the Gulf of Mexico, unless Congress should have previously provided for the payment of the same by the necessary appropriation of money.
+
+Under this authority the sum of \$500,000 of the 5 per cent. bonds of 1881 was issued in 1877.
+
+### Act of January 25, 1879 — Direct Exchange Authority
+
+The act of January 25, 1879 (20 Statutes, 265), provides:
+
+> That the Secretary of the Treasury is hereby authorized in the process of refunding the national debt under existing laws to exchange directly at par the bonds of the United States bearing interest at four per centum per annum authorized by law for the bonds of the United States commonly known as five-twenties outstanding and uncalled, and, whenever all such five-twenty bonds shall have been redeemed, the provisions of this section and all existing provisions of law authorizing the refunding of the national debt shall apply to any bonds of the United States bearing interest at five per centum per annum or a higher rate, which may be redeemable. In any exchange made under the provisions of this section interest may be allowed, on the bonds redeemed, for a period of three months.
+
+### Text of the Four Per Cent. Bond (1907)
+
+The following is a copy of the text of the four per cent. United States bonds issued under the authority above referred to:
+
+> **Four Per Cent. Consols of the United States.**
+>
+> Washington, July 1, 1877.
+>
+> The United States of America are indebted to ___, or assigns, in the sum of ___.
+>
+> This bond is issued in accordance with the provisions of an act of Congress entitled "An act to authorize the refunding of the national debt, approved July 14, 1870", and an act amendatory thereof, approved January 20, 1871, and is redeemable at the pleasure of the United States, after the first day of July, A.D. 1907, in coin of the standard value of the United States on said July 14, 1870, with interest in such coin from the day of the date hereof at the rate of 4 per centum per annum, payable quarterly on the first day of October, January, April, and July of each year. The principal and interest are exempt from the payment of taxes or duties of the United States, as well as from taxation in any form by or under state, municipal, or local authority.
+>
+> Transferable on the books of the office.
+
+The text of the 4½ and 5 per cent. bonds, issued under the same authority, is the same as the preceding, with the exception of the date of issue, the rate per cent., and the dates of maturity.
 
 The whole amount of bonds issued under the several refunding acts are as follows:
 
