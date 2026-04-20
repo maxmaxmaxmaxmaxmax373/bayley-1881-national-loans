@@ -353,7 +353,7 @@ This stock having been issued for the purpose of paying off the balance due on t
 
 The act of March 3, 1795, section 2 (1 Statutes, 433), authorized the opening of a loan to the full amount of the foreign debt, for which it was exchangeable and which it was intended to replace. The interest was fixed at a rate of one-half per cent. in excess of the rate already borne by such debt, to commence on the 1st day of January next succeeding each subscription. The interest and reimbursement were charged to certain revenues from duties specified in the act, and the loan made reimbursable at the pleasure of the government.
 
-Length of loan, indefinite; redeemable at the pleasure of the government; amount authorized, total of foreign debt; amount issued, \$176,000; sold at par; interest, \$4\frac{1}{2}\$ per cent., payable quarterly; final redemption, September 30, 1803.
+Length of loan, indefinite; redeemable at the pleasure of the government; amount authorized, total of foreign debt; amount issued, \$176,000; sold at par; interest, 4½ per cent., payable quarterly; final redemption, September 30, 1803.
 
 ### Issues
 
@@ -496,7 +496,7 @@ Length of loan, 15 years; redeemable after 15 years; amount authorized, \$5,000,
 
 The act of May 7, 1800 (2 Statutes, 60), authorized the making of a loan of \$3,500,000, to be applied to making good deficiencies in appropriations made during that session of Congress, and defraying expenses incurred by calling into service the military forces of the United States. It was provided that no engagement or contract should be entered into which would preclude its reimbursement at any time after fifteen years from the date of the loan. The payment of interest and reimbursement of the principal were charged to the surplusage of certain duties on imports and tonnage, and the faith of the United States was pledged to make good any deficiency.
 
-Length of loan, 15 years; redeemable after 15 years; amount authorized, \$3,500,000; amount issued, \$1,481,700; sold at an average premium of nearly \$5\frac{3}{4}\$ per cent.; interest, 8 per cent.; payable quarterly; outstanding June 30, 1880, \$500.
+Length of loan, 15 years; redeemable after 15 years; amount authorized, \$3,500,000; amount issued, \$1,481,700; sold at an average premium of nearly 5¾ per cent.; interest, 8 per cent.; payable quarterly; outstanding June 30, 1880, \$500.
 
 ### Issues
 
@@ -857,9 +857,9 @@ Length of loan, indefinite; redeemable as per contract; amount authorized, \$3,0
 (sec-treasury-notes-december-1814)=
 ## Treasury Notes of December, 1814
 
-The act of December 26, 1814 (3 Statutes, 161), authorized the issue of treasury notes, not to exceed \$10,500,000; \$7,500,000, in lieu of uneffected portions of the loans authorized by acts of March 24 and November 15, 1814, to be applied to the same uses, and a further sum of \$3,000,000 to defray the expenses of the War Department for the current year. The rate of interest was fixed at \$5\frac{2}{5}\$ per cent., and the notes were made reimbursable one year from date of issue, transferable by delivery and assignment, and receivable in payment of duties and taxes laid by the United States, and for public lands sold by the same authority. A commission of one-fourth of one per cent. was allowed to agents. The reimbursement of the principal and payment of interest were charged upon the sinking fund.
+The act of December 26, 1814 (3 Statutes, 161), authorized the issue of treasury notes, not to exceed \$10,500,000; \$7,500,000, in lieu of uneffected portions of the loans authorized by acts of March 24 and November 15, 1814, to be applied to the same uses, and a further sum of \$3,000,000 to defray the expenses of the War Department for the current year. The rate of interest was fixed at 5 2/5 per cent., and the notes were made reimbursable one year from date of issue, transferable by delivery and assignment, and receivable in payment of duties and taxes laid by the United States, and for public lands sold by the same authority. A commission of one-fourth of one per cent. was allowed to agents. The reimbursement of the principal and payment of interest were charged upon the sinking fund.
 
-Length of loan, 1 year; redeemable 1 year from date; amount authorized, \$10,500,000; amount issued, \$8,318,400; sold at par; interest, \$5\frac{2}{5}\$ per cent., payable on redemption.
+Length of loan, 1 year; redeemable 1 year from date; amount authorized, \$10,500,000; amount issued, \$8,318,400; sold at par; interest, 5 2/5 per cent., payable on redemption.
 
 ### Issues and Redemptions
 
@@ -870,9 +870,9 @@ Length of loan, 1 year; redeemable 1 year from date; amount authorized, \$10,500
 (sec-treasury-notes-1815)=
 ## Treasury Notes of 1815
 
-The act of February 24, 1815 (3 Statutes, 213), authorized the issue of treasury notes of various denominations, not to exceed \$25,000,000, to be applied in payment for services, or supplies, or for debts due by the United States, or for borrowing money. Notes of the denomination of \$100 and over were made payable to order and transferable by delivery and assignment, and to bear an interest of \$5\frac{2}{5}\$ per cent. per annum. These notes were made exchangeable for a 6 per cent. funded stock created by virtue of the same act, and were receivable in all payments to the United States; but, however redeemed or surrendered, were liable to reissue in like manner as originally issued.
+The act of February 24, 1815 (3 Statutes, 213), authorized the issue of treasury notes of various denominations, not to exceed \$25,000,000, to be applied in payment for services, or supplies, or for debts due by the United States, or for borrowing money. Notes of the denomination of \$100 and over were made payable to order and transferable by delivery and assignment, and to bear an interest of 5 2/5 per cent. per annum. These notes were made exchangeable for a 6 per cent. funded stock created by virtue of the same act, and were receivable in all payments to the United States; but, however redeemed or surrendered, were liable to reissue in like manner as originally issued.
 
-Length of loan, indefinite; redeemable at the pleasure of the government; amount authorized, \$25,000,000; amount issued, \$4,969,400; sold at par; interest, \$5\frac{2}{5}\$ per cent., payable on redemption.
+Length of loan, indefinite; redeemable at the pleasure of the government; amount authorized, \$25,000,000; amount issued, \$4,969,400; sold at par; interest, 5 2/5 per cent., payable on redemption.
 
 ### Issues
 
@@ -1136,7 +1136,7 @@ Under date of March 31, 1847, the first comptroller of the treasury directed the
 
 The act of July 21, 1841 (5 Statutes, 438), authorized a loan of not exceeding \$12,000,000, at not exceeding 6 per cent. interest, payable quarterly or semi-annually, reimbursable at the will of the Secretary of the Treasury, after six months' notice, or at any time after three years from January 1, 1842; the money borrowed to be used in the redemption of treasury notes and to defray public expenses.
 
-Length of loan, 3 years; redeemable January 1, 1845; amount authorized, \$12,000,000; amount issued \$5,672,976 88; sold at par; interest, \$5\frac{1}{4}\$, \$5\frac{1}{2}\$, and 6 per cent., payable semi-annually; final redemption, 1847.
+Length of loan, 3 years; redeemable January 1, 1845; amount authorized, \$12,000,000; amount issued \$5,672,976 88; sold at par; interest, 5¼, 5½, and 6 per cent., payable semi-annually; final redemption, 1847.
 
 ### Issues
 
@@ -1152,7 +1152,7 @@ Length of loan, 3 years; redeemable January 1, 1845; amount authorized, \$12,000
 
 [^fn142]: The account of issues, as stated above, is by calendar years, and the redemption account by fiscal years.
 
-Bonds were issued for this loan, bearing interest, as follows: \$16,155 at \$5\frac{1}{4}\$ per cent.; \$3,213,791 86 at \$5\frac{1}{2}\$ per cent.; and \$2,443,030 02 at 6 per cent. For a list of subscribers, see H. of R. Ex. Doc. No. 15, 1st sess., 28th Cong., pp. 994–1001. From August 21 to December 16, 1844, the Secretary of the Treasury purchased \$490,350 of the \$5\frac{1}{2}\$ per-cents, and \$128,125 of the 6 per-cents, at various rates, ranging from \$\frac{1}{32}\$ to \$\frac{1}{16}\$ of 1 per cent. above par, the premium paid amounting to \$3,268 93.
+Bonds were issued for this loan, bearing interest, as follows: \$16,155 at 5¼ per cent.; \$3,213,791 86 at 5½ per cent.; and \$2,443,030 02 at 6 per cent. For a list of subscribers, see H. of R. Ex. Doc. No. 15, 1st sess., 28th Cong., pp. 994–1001. From August 21 to December 16, 1844, the Secretary of the Treasury purchased \$490,350 of the 5½ per-cents, and \$128,125 of the 6 per-cents, at various rates, ranging from 1/32 to 1/16 of 1 per cent. above par, the premium paid amounting to \$3,268 93.
 
 (sec-loan-1842)=
 ## Loan of 1842
@@ -1217,7 +1217,7 @@ Length of loan, 20 years; redeemable January 1, 1863; amount authorized, \$17,00
 
 Under the same restrictions, limitations, and provisions as are contained in the act of April 15, 1842; but the sum so borrowed, together with the treasury notes that might be issued by virtue of the act, was not to exceed, in the whole, \$10,000,000. The stock was to be redeemable at a period not longer than ten years from the issue thereof.
 
-Length of loan, 10 years; redeemable November 12, 1856; amount authorized, \$10,000,000; amount issued, \$4,999,149 45; sold at rates varying from par to \$\frac{1}{100}\$ of 1 per cent. premium; interest, 6 per cent., payable semi-annually; final redemption, 1861.
+Length of loan, 10 years; redeemable November 12, 1856; amount authorized, \$10,000,000; amount issued, \$4,999,149 45; sold at rates varying from par to 1/100 of 1 per cent. premium; interest, 6 per cent., payable semi-annually; final redemption, 1861.
 
 ### Issues
 
@@ -1236,7 +1236,7 @@ Length of loan, 10 years; redeemable November 12, 1856; amount authorized, \$10,
 
 The act of January 28, 1847 (9 Statutes, 118), authorized the issue of \$23,000,000 in treasury notes, with interest at not exceeding 6 per cent. per annum, or the issue of stock for any portion of the amount, with interest at 6 per cent. per annum. The treasury notes under this act were redeemable at the expiration of one or two years, and the interest was to cease at the expiration of sixty days' notice. These notes were receivable in payment of all debts due the United States, including customs duties.
 
-Length of loan, 1 and 2 years; redeemable 1 and 2 years from date; amount authorized, \$23,000,000; amount issued (including reissues), \$26,122,100; sold at par; interest, \$5\frac{2}{5}\$ and 6 per cent., payable on redemption; outstanding June 30, 1880, \$950.
+Length of loan, 1 and 2 years; redeemable 1 and 2 years from date; amount authorized, \$23,000,000; amount issued (including reissues), \$26,122,100; sold at par; interest, 5 2/5 and 6 per cent., payable on redemption; outstanding June 30, 1880, \$950.
 
 ### Issues
 
@@ -1277,7 +1277,7 @@ Length of loan, 1 and 2 years; redeemable 1 and 2 years from date; amount author
 
 The act of January 28, 1847 (9 Statutes, 118), authorized the issue of \$23,000,000 in treasury notes, with interest at not exceeding 6 per cent. per annum, or the issue of stock for any portion of the amount, with interest at 6 per cent. per annum, reimbursable after December 31, 1867. Section 14 authorized the conversion of treasury notes under this or any preceding act into like stock, which accounts for the apparent overissue.
 
-Length of loan, 20 years; redeemable January 1, 1868; amount authorized, \$23,000,000; amount issued, \$28,230,350; sold at rates varying from \$1\frac{1}{4}\$ to 2 per cent. premium; interest, 6 per cent., payable semi-annually; outstanding June 30, 1880, \$1,250.
+Length of loan, 20 years; redeemable January 1, 1868; amount authorized, \$23,000,000; amount issued, \$28,230,350; sold at rates varying from 1¼ to 2 per cent. premium; interest, 6 per cent., payable semi-annually; outstanding June 30, 1880, \$1,250.
 
 ### Issues
 
@@ -1374,7 +1374,7 @@ Length of loan, 20 years; redeemable July 1, 1868; amount authorized, \$16,000,0
 | 1873 | | | | | 5,500 00 |
 | Total | | | | | 16,000,000 00 |
 
-Proposals for this loan were invited April 17, 1848. For a list of accepted bids, see Finance Report, December 9, 1848, p. 56. The net premium realized on the whole amount of stock issued was \$487,191 16. From 1849 to 1858, inclusive, the Secretary of the Treasury purchased \$7,091,658 20 of this stock at various rates, ranging from \$8\frac{185}{1000}\$ to \$22\frac{1}{100}\$ per cent. above par. The total premium paid (exclusive of commissions) amounted to \$1,251,258 04, as follows: \$21,281 25 in 1849; \$37,706 50 in 1853; \$552,590 18 in 1854; \$138,672 91 in 1855; \$127,580 90 in 1856; \$143,682 30 in 1857; and \$229,744 in 1858.
+Proposals for this loan were invited April 17, 1848. For a list of accepted bids, see Finance Report, December 9, 1848, p. 56. The net premium realized on the whole amount of stock issued was \$487,191 16. From 1849 to 1858, inclusive, the Secretary of the Treasury purchased \$7,091,658 20 of this stock at various rates, ranging from 8 185/1000 to 22 1/100 per cent. above par. The total premium paid (exclusive of commissions) amounted to \$1,251,258 04, as follows: \$21,281 25 in 1849; \$37,706 50 in 1853; \$552,590 18 in 1854; \$138,672 91 in 1855; \$127,580 90 in 1856; \$143,682 30 in 1857; and \$229,744 in 1858.
 
 In 1869 the redemption on account of this loan is stated in the Receipts and Expenditures as \$7,666,891 80. Add to this \$43,050, erroneously charged to the "loan of 1847", and deduct \$5,500, erroneously charged to this loan, which should have been charged to the "loan of 1847", and the result is \$7,704,441 80, the true amount redeemed in 1869 (report No. 6391, January 25, 1869).
 
@@ -1428,7 +1428,7 @@ Proposals for this loan were invited June 26 and September 17, 1858, being for \
 
 The act of June 22, 1860 (12 Statutes, 79), authorized a loan of \$21,000,000 (to be used in redemption of treasury notes), with interest at not exceeding 6 per cent. per annum, redeemable in not less than ten nor more than twenty years.
 
-Length of loan, 10 years; redeemable January 1, 1871; amount authorized, \$21,000,000; amount issued, \$7,022,000; sold at rates varying from par to \$1\frac{1}{4}\$ per cent. premium; interest, 5 per cent., payable semi-annually; outstanding June 30, 1880, \$10,000.
+Length of loan, 10 years; redeemable January 1, 1871; amount authorized, \$21,000,000; amount issued, \$7,022,000; sold at rates varying from par to 1¼ per cent. premium; interest, 5 per cent., payable semi-annually; outstanding June 30, 1880, \$10,000.
 
 ### Issues
 
